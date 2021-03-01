@@ -9,3 +9,11 @@ Housing insecurity is a looming crisis in the U.S. Nearly 5 million Americans lo
 5. When during the year are people experiencing evictions? Does this differ by location (NYC and Hillsborough)? 
 6. Research Opportunity: Besides the American Community Survey, what other public datasets can you find that contain information potentially relevant to housing loss in these areas (e.g., unemployment, prevalence of residents receiving assistance such as SNAP)? Create a document summarizing their contents and where they can be found.
 7. Research Opportunity: What qualitative information, or local context, can be added to this data? What questions arise from looking at the quantitative data or working with the data sources? For instance, how does the eviction process differ in New York City and Hillsborough County? Can you identify any major events from the past few years (prior to 2020) that may have impacted people’s ability to remain housed?
+
+# Datasets with Suggested Uses
+## acs/data_dictionary.csv
+Use this file to find 'human-readable' names for the ACS variables in the Hillsborough County and NYC files below.
+## acs/hillsborough_acs5-2018_census.csv
+Use this file to generate county-level summaries of demographic and socioeconomic variables for Hillsborough County. It may also be useful for modeling the drivers behind housing loss in Hillsborough County, as the "processed" datasets contain only a small number of the variables found in this file.
+## acs/nyc_acs5-2018_census.csv
+Use this file to generate county-level summaries of demographic and socioeconomic variables for New York City counties (boroughs). It may also be useful for modeling the drivers behind eviction in NYC, as the "processed" datasets contain only a small number of the variables found in this file.
