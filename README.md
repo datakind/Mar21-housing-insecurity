@@ -1,6 +1,8 @@
 # Introduction
 Housing insecurity is a looming crisis in the U.S. Nearly 5 million Americans lose their homes through eviction and foreclosure. Volunteers will derive insights, create visualizations, and recommend action for two U.S. localities - Hillsborough County, FL and NYC.
 
+Please read the full project brief for more information: https://docs.google.com/document/d/1f5G9K58nlEmfDOYthzrb3CP94ZrvVR5gM64dqfKuyoI/edit?ts=602d1f25&pli=1#
+
 # Key Questions for the DataDive Event
 1. What is the overall trend of housing loss in these counties over the three-year period? Can any seasonality in housing loss be detected?
 2. Which parts of these counties are experiencing the most acute housing loss? For which areas are evictions more prevalent per capita than foreclosures, and vice versa? 
