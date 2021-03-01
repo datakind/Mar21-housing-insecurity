@@ -15,9 +15,9 @@ This section gives a very brief overview of the files in the `data` folder.
 ### acs/data_dictionary.csv
 Use this file to find 'human-readable' names for the ACS variables in the Hillsborough County and NYC files below.
 ### acs/hillsborough_acs5-2018_census.csv
-Use this file to generate county-level summaries of demographic and socioeconomic variables for Hillsborough County. It may also be useful for modeling the drivers behind housing loss in Hillsborough County, as the "processed" datasets contain only a small number of the variables found in this file.
+Use this file to generate tract-level summaries of demographic and socioeconomic variables for Hillsborough County. It may also be useful for modeling the drivers behind housing loss in Hillsborough County, as the "processed" datasets contain only a small number of the variables found in this file.
 ### acs/nyc_acs5-2018_census.csv
-Use this file to generate county or city-level summaries of demographic and socioeconomic variables for New York City counties (boroughs). It may also be useful for modeling the drivers behind eviction in NYC, as the "processed" datasets contain only a small number of the variables found in this file.
+Use this file to generate tract-level summaries of demographic and socioeconomic variables for New York City counties (boroughs). It may also be useful for modeling the drivers behind eviction in NYC, as the "processed" datasets contain only a small number of the variables found in this file.
 ### geo/florida_sdist_2021.zip
 This shapefile contains Florida senate voting district boundaries for 2021. Use this file if you would like to generate a map of housing loss for Hillsborough County using senate voting districts rather than, or in addition to, census tracts. Sourced from: https://www.fgdl.org/metadataexplorer/explorer.jsp
 ### geo/florida_usdist_2021.zip
@@ -28,3 +28,11 @@ This GeoJSON file contains census tract boundaries for Hillsborough County. Use 
 This GeoJSON file contains census tract boundaries for all NYC boroughs. Use it to generate census tract-level maps of housing loss.
 ### geo/nyc_school_districts.geojson
 This GeoJSON file contains school district boundaries for all NYC boroughs. Use it to generate school district-level maps of evictions for New York City.
+### processed/hillsborough_fl_processed_2017_to_2019_20210225.csv
+This file contains data aggregated from the raw Hillsborough County eviction, mortgage foreclosure, and tax lien foreclosure data (see the `raw` folder for these files) together with select variables from the American Community Survey. Use this file to build maps of housing loss for Hillsborough County, or to perform basic statistical analysis of the drivers of housing loss in this locality.
+### processed/hillsborough_fl_processed_timeseries_2017_to_2019_20210225.csv
+This file contains data aggregated from the raw Hillsborough County eviction, mortgage foreclosure, and tax lien foreclosure data (see the `raw` folder for these files) and consists of monthly time series for housing loss. Use this file to generate time series plots of housing loss for Hillsborough County.
+### processed/nyc_processed_2017_to_2019_20210225.csv
+This file contains data aggregated from the raw New York City eviction data (see the `raw` folder for this file) together with select variables from the American Community Survey. Use this file to build maps of housing loss for New York City, or to perform basic statistical analysis of the drivers of housing loss in this locality.
+### processed/nyc_processed_timeseries_2017_to_2019_20210225.csv
+This file contains data aggregated from the raw New York City eviction data (see the `raw` folder for these files) and consists of monthly time series for housing loss. Use this file to generate time series plots of housing loss for New York City. Note: the `eviction-filings` column is an estimate, as only disposed and fully executed evictions are present in the raw dataset provided by the city. These estimates were derived using The Eviction Lab's counts of eviction filings and evictions for NYC from 2014-2016, found here: https://data-downloads.evictionlab.org/
