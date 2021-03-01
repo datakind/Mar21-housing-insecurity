@@ -1,5 +1,5 @@
 # Introduction
-Housing insecurity is a looming crisis in the U.S. Nearly 5 million Americans lose their homes through eviction and foreclosure. Volunteers will derive insights, create visualizations, and recommend action for two U.S. localities, including NYC.
+Housing insecurity is a looming crisis in the U.S. Nearly 5 million Americans lose their homes through eviction and foreclosure. Volunteers will derive insights, create visualizations, and recommend action for two U.S. localities - Hillsborough County, FL and NYC.
 
 # Key Questions for the DataDive Event
 1. What is the overall trend of housing loss in these counties over the three-year period? Can any seasonality in housing loss be detected?
