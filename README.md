@@ -11,9 +11,20 @@ Housing insecurity is a looming crisis in the U.S. Nearly 5 million Americans lo
 7. Research Opportunity: What qualitative information, or local context, can be added to this data? What questions arise from looking at the quantitative data or working with the data sources? For instance, how does the eviction process differ in New York City and Hillsborough County? Can you identify any major events from the past few years (prior to 2020) that may have impacted people’s ability to remain housed?
 
 # Datasets with Suggested Uses
-## acs/data_dictionary.csv
+This section gives a very brief overview of the files in the `data` folder.
+### acs/data_dictionary.csv
 Use this file to find 'human-readable' names for the ACS variables in the Hillsborough County and NYC files below.
-## acs/hillsborough_acs5-2018_census.csv
+### acs/hillsborough_acs5-2018_census.csv
 Use this file to generate county-level summaries of demographic and socioeconomic variables for Hillsborough County. It may also be useful for modeling the drivers behind housing loss in Hillsborough County, as the "processed" datasets contain only a small number of the variables found in this file.
-## acs/nyc_acs5-2018_census.csv
-Use this file to generate county-level summaries of demographic and socioeconomic variables for New York City counties (boroughs). It may also be useful for modeling the drivers behind eviction in NYC, as the "processed" datasets contain only a small number of the variables found in this file.
+### acs/nyc_acs5-2018_census.csv
+Use this file to generate county or city-level summaries of demographic and socioeconomic variables for New York City counties (boroughs). It may also be useful for modeling the drivers behind eviction in NYC, as the "processed" datasets contain only a small number of the variables found in this file.
+### geo/florida_sdist_2021.zip
+This shapefile contains Florida senate voting district boundaries for 2021. Use this file if you would like to generate a map of housing loss for Hillsborough County using senate voting districts rather than, or in addition to, census tracts. Sourced from: https://www.fgdl.org/metadataexplorer/explorer.jsp
+### geo/florida_usdist_2021.zip
+This shapefile contains Florida congressional district boundaries for 2021. Use this file if you would like to generate a map of housing loss for Hillsborough County using congressional districts rather than, or in addition to, census tracts. Sourced from: https://www.fgdl.org/metadataexplorer/explorer.jsp
+### geo/hillsborough_fl_2010_tracts_formatted.geojson
+This GeoJSON file contains census tract boundaries for Hillsborough County. Use it to generate census tract-level maps of housing loss.
+### geo/nyc_2010_tracts_formatted.geojson
+This GeoJSON file contains census tract boundaries for all NYC boroughs. Use it to generate census tract-level maps of housing loss.
+### geo/nyc_school_districts.geojson
+This GeoJSON file contains school district boundaries for all NYC boroughs. Use it to generate school district-level maps of evictions for New York City.
