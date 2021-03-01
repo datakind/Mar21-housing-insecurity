@@ -1,0 +1,1033 @@
+variable,label,concept,predicateType
+DP02_0001E,Estimate!!HOUSEHOLDS BY TYPE!!Total households,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0001PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0002E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families),SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0002PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families),SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0003E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!With own children of the householder under 18 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0003PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!With own children of the householder under 18 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0004E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Married-couple family,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0004PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Married-couple family,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0005E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Married-couple family!!With own children of the householder under 18 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0005PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Married-couple family!!With own children of the householder under 18 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0006E,"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Male householder, no wife present, family",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0006PE,"Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Male householder, no wife present, family",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0007E,"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Male householder, no wife present, family!!With own children of the householder under 18 years",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0007PE,"Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Male householder, no wife present, family!!With own children of the householder under 18 years",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0008E,"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Female householder, no husband present, family",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0008PE,"Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Female householder, no husband present, family",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0009E,"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Female householder, no husband present, family!!With own children of the householder under 18 years",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0009PE,"Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Female householder, no husband present, family!!With own children of the householder under 18 years",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0010E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0010PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0011E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households!!Householder living alone,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0011PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households!!Householder living alone,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0012E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households!!Householder living alone!!65 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0012PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households!!Householder living alone!!65 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0013E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people under 18 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0013PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people under 18 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0014E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people 65 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0014PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people 65 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0015E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Average household size,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0015PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Average household size,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0016E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Average family size,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0016PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Average family size,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0017E,Estimate!!RELATIONSHIP!!Population in households,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0017PE,Percent Estimate!!RELATIONSHIP!!Population in households,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0018E,Estimate!!RELATIONSHIP!!Population in households!!Householder,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0018PE,Percent Estimate!!RELATIONSHIP!!Population in households!!Householder,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0019E,Estimate!!RELATIONSHIP!!Population in households!!Spouse,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0019PE,Percent Estimate!!RELATIONSHIP!!Population in households!!Spouse,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0020E,Estimate!!RELATIONSHIP!!Population in households!!Child,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0020PE,Percent Estimate!!RELATIONSHIP!!Population in households!!Child,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0021E,Estimate!!RELATIONSHIP!!Population in households!!Other relatives,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0021PE,Percent Estimate!!RELATIONSHIP!!Population in households!!Other relatives,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0022E,Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0022PE,Percent Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0023E,Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0023PE,Percent Estimate!!RELATIONSHIP!!Population in households!!Nonrelatives!!Unmarried partner,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0024E,Estimate!!MARITAL STATUS!!Males 15 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0024PE,Percent Estimate!!MARITAL STATUS!!Males 15 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0025E,Estimate!!MARITAL STATUS!!Males 15 years and over!!Never married,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0025PE,Percent Estimate!!MARITAL STATUS!!Males 15 years and over!!Never married,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0026E,"Estimate!!MARITAL STATUS!!Males 15 years and over!!Now married, except separated",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0026PE,"Percent Estimate!!MARITAL STATUS!!Males 15 years and over!!Now married, except separated",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0027E,Estimate!!MARITAL STATUS!!Males 15 years and over!!Separated,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0027PE,Percent Estimate!!MARITAL STATUS!!Males 15 years and over!!Separated,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0028E,Estimate!!MARITAL STATUS!!Males 15 years and over!!Widowed,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0028PE,Percent Estimate!!MARITAL STATUS!!Males 15 years and over!!Widowed,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0029E,Estimate!!MARITAL STATUS!!Males 15 years and over!!Divorced,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0029PE,Percent Estimate!!MARITAL STATUS!!Males 15 years and over!!Divorced,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0030E,Estimate!!MARITAL STATUS!!Females 15 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0030PE,Percent Estimate!!MARITAL STATUS!!Females 15 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0031E,Estimate!!MARITAL STATUS!!Females 15 years and over!!Never married,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0031PE,Percent Estimate!!MARITAL STATUS!!Females 15 years and over!!Never married,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0032E,"Estimate!!MARITAL STATUS!!Females 15 years and over!!Now married, except separated",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0032PE,"Percent Estimate!!MARITAL STATUS!!Females 15 years and over!!Now married, except separated",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0033E,Estimate!!MARITAL STATUS!!Females 15 years and over!!Separated,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0033PE,Percent Estimate!!MARITAL STATUS!!Females 15 years and over!!Separated,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0034E,Estimate!!MARITAL STATUS!!Females 15 years and over!!Widowed,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0034PE,Percent Estimate!!MARITAL STATUS!!Females 15 years and over!!Widowed,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0035E,Estimate!!MARITAL STATUS!!Females 15 years and over!!Divorced,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0035PE,Percent Estimate!!MARITAL STATUS!!Females 15 years and over!!Divorced,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0036E,Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0036PE,Percent Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0037E,"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Unmarried women (widowed, divorced, and never married)",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0037PE,"Percent Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Unmarried women (widowed, divorced, and never married)",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0038E,"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Unmarried women (widowed, divorced, and never married)!!Per 1,000 unmarried women",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0038PE,"Percent Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Unmarried women (widowed, divorced, and never married)!!Per 1,000 unmarried women",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0039E,"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 15 to 50 years old",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0039PE,"Percent Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 15 to 50 years old",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0040E,"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 15 to 19 years old",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0040PE,"Percent Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 15 to 19 years old",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0041E,"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 20 to 34 years old",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0041PE,"Percent Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 20 to 34 years old",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0042E,"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 35 to 50 years old",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0042PE,"Percent Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 35 to 50 years old",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0043E,Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0043PE,Percent Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0044E,Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Grandparents responsible for grandchildren,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0044PE,Percent Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Grandparents responsible for grandchildren,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0045E,Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!Less than 1 year,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0045PE,Percent Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!Less than 1 year,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0046E,Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!1 or 2 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0046PE,Percent Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!1 or 2 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0047E,Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!3 or 4 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0047PE,Percent Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!3 or 4 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0048E,Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!5 or more years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0048PE,Percent Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!5 or more years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0049E,Estimate!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0049PE,Percent Estimate!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0050E,Estimate!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years!!Who are female,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0050PE,Percent Estimate!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years!!Who are female,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0051E,Estimate!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years!!Who are married,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0051PE,Percent Estimate!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years!!Who are married,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0052E,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0052PE,Percent Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0053E,"Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school, preschool",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0053PE,"Percent Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school, preschool",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0054E,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Kindergarten,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0054PE,Percent Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Kindergarten,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0055E,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Elementary school (grades 1-8),SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0055PE,Percent Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Elementary school (grades 1-8),SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0056E,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!High school (grades 9-12),SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0056PE,Percent Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!High school (grades 9-12),SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0057E,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0057PE,Percent Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0058E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0058PE,Percent Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0059E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0059PE,Percent Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0060E,"Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0060PE,"Percent Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0061E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0061PE,Percent Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0062E,"Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0062PE,"Percent Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0063E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0063PE,Percent Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0064E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0064PE,Percent Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0065E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0065PE,Percent Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0066E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0066PE,Percent Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0067E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0067PE,Percent Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0068E,Estimate!!VETERAN STATUS!!Civilian population 18 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0068PE,Percent Estimate!!VETERAN STATUS!!Civilian population 18 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0069E,Estimate!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veterans,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0069PE,Percent Estimate!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veterans,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0070E,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Total Civilian Noninstitutionalized Population,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0070PE,Percent Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Total Civilian Noninstitutionalized Population,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0071E,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Total Civilian Noninstitutionalized Population!!With a disability,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0071PE,Percent Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Total Civilian Noninstitutionalized Population!!With a disability,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0072E,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Under 18 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0072PE,Percent Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Under 18 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0073E,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Under 18 years!!With a disability,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0073PE,Percent Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Under 18 years!!With a disability,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0074E,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!18 to 64 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0074PE,Percent Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!18 to 64 years,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0075E,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!18 to 64 years!!With a disability,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0075PE,Percent Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!18 to 64 years!!With a disability,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0076E,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!65 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0076PE,Percent Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!65 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0077E,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!65 years and over!!With a disability,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0077PE,Percent Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!65 years and over!!With a disability,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0078E,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0078PE,Percent Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0079E,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0079PE,Percent Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0080E,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0080PE,Percent Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0081E,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Same county,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0081PE,Percent Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Same county,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0082E,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0082PE,Percent Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0083E,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county!!Same state,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0083PE,Percent Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county!!Same state,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0084E,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county!!Different state,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0084PE,Percent Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county!!Different state,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0085E,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0085PE,Percent Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0086E,Estimate!!PLACE OF BIRTH!!Total population,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0086PE,Percent Estimate!!PLACE OF BIRTH!!Total population,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0087E,Estimate!!PLACE OF BIRTH!!Total population!!Native,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0087PE,Percent Estimate!!PLACE OF BIRTH!!Total population!!Native,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0088E,Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in United States,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0088PE,Percent Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in United States,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0089E,Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in United States!!State of residence,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0089PE,Percent Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in United States!!State of residence,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0090E,Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in United States!!Different state,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0090PE,Percent Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in United States!!Different state,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0091E,"Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0091PE,"Percent Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0092E,Estimate!!PLACE OF BIRTH!!Total population!!Foreign born,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0092PE,Percent Estimate!!PLACE OF BIRTH!!Total population!!Foreign born,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0093E,Estimate!!U.S. CITIZENSHIP STATUS!!Foreign-born population,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0093PE,Percent Estimate!!U.S. CITIZENSHIP STATUS!!Foreign-born population,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0094E,Estimate!!U.S. CITIZENSHIP STATUS!!Foreign-born population!!Naturalized U.S. citizen,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0094PE,Percent Estimate!!U.S. CITIZENSHIP STATUS!!Foreign-born population!!Naturalized U.S. citizen,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0095E,Estimate!!U.S. CITIZENSHIP STATUS!!Foreign-born population!!Not a U.S. citizen,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0095PE,Percent Estimate!!U.S. CITIZENSHIP STATUS!!Foreign-born population!!Not a U.S. citizen,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0096E,Estimate!!YEAR OF ENTRY!!Population born outside the United States,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0096PE,Percent Estimate!!YEAR OF ENTRY!!Population born outside the United States,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0097E,Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Native,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0097PE,Percent Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Native,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0098E,Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Native!!Entered 2010 or later,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0098PE,Percent Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Native!!Entered 2010 or later,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0099E,Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Native!!Entered before 2010,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0099PE,Percent Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Native!!Entered before 2010,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0100E,Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Foreign born,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0100PE,Percent Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Foreign born,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0101E,Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Foreign born!!Entered 2010 or later,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0101PE,Percent Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Foreign born!!Entered 2010 or later,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0102E,Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Foreign born!!Entered before 2010,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0102PE,Percent Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Foreign born!!Entered before 2010,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0103E,"Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0103PE,"Percent Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0104E,"Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Europe",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0104PE,"Percent Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Europe",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0105E,"Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Asia",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0105PE,"Percent Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Asia",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0106E,"Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Africa",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0106PE,"Percent Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Africa",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0107E,"Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Oceania",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0107PE,"Percent Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Oceania",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0108E,"Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Latin America",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0108PE,"Percent Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Latin America",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0109E,"Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Northern America",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0109PE,"Percent Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Northern America",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0110E,Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0110PE,Percent Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0111E,Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!English only,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0111PE,Percent Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!English only,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0112E,Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Language other than English,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0112PE,Percent Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Language other than English,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0113E,"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0113PE,"Percent Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0114E,Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Spanish,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0114PE,Percent Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Spanish,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0115E,"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Spanish!!Speak English less than ""very well""",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0115PE,"Percent Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Spanish!!Speak English less than ""very well""",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0116E,Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other Indo-European languages,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0116PE,Percent Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other Indo-European languages,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0117E,"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other Indo-European languages!!Speak English less than ""very well""",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0117PE,"Percent Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other Indo-European languages!!Speak English less than ""very well""",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0118E,Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Asian and Pacific Islander languages,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0118PE,Percent Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Asian and Pacific Islander languages,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0119E,"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Asian and Pacific Islander languages!!Speak English less than ""very well""",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0119PE,"Percent Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Asian and Pacific Islander languages!!Speak English less than ""very well""",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0120E,Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other languages,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0120PE,Percent Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other languages,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0121E,"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other languages!!Speak English less than ""very well""",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0121PE,"Percent Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other languages!!Speak English less than ""very well""",SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0122E,Estimate!!ANCESTRY!!Total population,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0122PE,Percent Estimate!!ANCESTRY!!Total population,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0123E,Estimate!!ANCESTRY!!Total population!!American,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0123PE,Percent Estimate!!ANCESTRY!!Total population!!American,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0124E,Estimate!!ANCESTRY!!Total population!!Arab,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0124PE,Percent Estimate!!ANCESTRY!!Total population!!Arab,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0125E,Estimate!!ANCESTRY!!Total population!!Czech,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0125PE,Percent Estimate!!ANCESTRY!!Total population!!Czech,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0126E,Estimate!!ANCESTRY!!Total population!!Danish,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0126PE,Percent Estimate!!ANCESTRY!!Total population!!Danish,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0127E,Estimate!!ANCESTRY!!Total population!!Dutch,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0127PE,Percent Estimate!!ANCESTRY!!Total population!!Dutch,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0128E,Estimate!!ANCESTRY!!Total population!!English,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0128PE,Percent Estimate!!ANCESTRY!!Total population!!English,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0129E,Estimate!!ANCESTRY!!Total population!!French (except Basque),SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0129PE,Percent Estimate!!ANCESTRY!!Total population!!French (except Basque),SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0130E,Estimate!!ANCESTRY!!Total population!!French Canadian,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0130PE,Percent Estimate!!ANCESTRY!!Total population!!French Canadian,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0131E,Estimate!!ANCESTRY!!Total population!!German,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0131PE,Percent Estimate!!ANCESTRY!!Total population!!German,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0132E,Estimate!!ANCESTRY!!Total population!!Greek,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0132PE,Percent Estimate!!ANCESTRY!!Total population!!Greek,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0133E,Estimate!!ANCESTRY!!Total population!!Hungarian,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0133PE,Percent Estimate!!ANCESTRY!!Total population!!Hungarian,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0134E,Estimate!!ANCESTRY!!Total population!!Irish,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0134PE,Percent Estimate!!ANCESTRY!!Total population!!Irish,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0135E,Estimate!!ANCESTRY!!Total population!!Italian,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0135PE,Percent Estimate!!ANCESTRY!!Total population!!Italian,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0136E,Estimate!!ANCESTRY!!Total population!!Lithuanian,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0136PE,Percent Estimate!!ANCESTRY!!Total population!!Lithuanian,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0137E,Estimate!!ANCESTRY!!Total population!!Norwegian,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0137PE,Percent Estimate!!ANCESTRY!!Total population!!Norwegian,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0138E,Estimate!!ANCESTRY!!Total population!!Polish,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0138PE,Percent Estimate!!ANCESTRY!!Total population!!Polish,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0139E,Estimate!!ANCESTRY!!Total population!!Portuguese,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0139PE,Percent Estimate!!ANCESTRY!!Total population!!Portuguese,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0140E,Estimate!!ANCESTRY!!Total population!!Russian,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0140PE,Percent Estimate!!ANCESTRY!!Total population!!Russian,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0141E,Estimate!!ANCESTRY!!Total population!!Scotch-Irish,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0141PE,Percent Estimate!!ANCESTRY!!Total population!!Scotch-Irish,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0142E,Estimate!!ANCESTRY!!Total population!!Scottish,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0142PE,Percent Estimate!!ANCESTRY!!Total population!!Scottish,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0143E,Estimate!!ANCESTRY!!Total population!!Slovak,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0143PE,Percent Estimate!!ANCESTRY!!Total population!!Slovak,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0144E,Estimate!!ANCESTRY!!Total population!!Subsaharan African,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0144PE,Percent Estimate!!ANCESTRY!!Total population!!Subsaharan African,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0145E,Estimate!!ANCESTRY!!Total population!!Swedish,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0145PE,Percent Estimate!!ANCESTRY!!Total population!!Swedish,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0146E,Estimate!!ANCESTRY!!Total population!!Swiss,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0146PE,Percent Estimate!!ANCESTRY!!Total population!!Swiss,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0147E,Estimate!!ANCESTRY!!Total population!!Ukrainian,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0147PE,Percent Estimate!!ANCESTRY!!Total population!!Ukrainian,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0148E,Estimate!!ANCESTRY!!Total population!!Welsh,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0148PE,Percent Estimate!!ANCESTRY!!Total population!!Welsh,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0149E,Estimate!!ANCESTRY!!Total population!!West Indian (excluding Hispanic origin groups),SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0149PE,Percent Estimate!!ANCESTRY!!Total population!!West Indian (excluding Hispanic origin groups),SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0150E,Estimate!!COMPUTERS AND INTERNET USE!!Total households,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0150PE,Percent Estimate!!COMPUTERS AND INTERNET USE!!Total households,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0151E,Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a computer,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0151PE,Percent Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a computer,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP02_0152E,Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,int
+DP02_0152PE,Percent Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,float
+DP03_0001E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0001PE,Percent Estimate!!EMPLOYMENT STATUS!!Population 16 years and over,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0002E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0002PE,Percent Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0003E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0003PE,Percent Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0004E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0004PE,Percent Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0005E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0005PE,Percent Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0006E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0006PE,Percent Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0007E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0007PE,Percent Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0008E,Estimate!!EMPLOYMENT STATUS!!Civilian labor force,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0008PE,Percent Estimate!!EMPLOYMENT STATUS!!Civilian labor force,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0009E,Estimate!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployment Rate,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0009PE,Percent Estimate!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployment Rate,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0010E,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0010PE,Percent Estimate!!EMPLOYMENT STATUS!!Females 16 years and over,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0011E,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0011PE,Percent Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0012E,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0012PE,Percent Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0013E,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0013PE,Percent Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0014E,Estimate!!EMPLOYMENT STATUS!!Own children of the householder under 6 years,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0014PE,Percent Estimate!!EMPLOYMENT STATUS!!Own children of the householder under 6 years,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0015E,Estimate!!EMPLOYMENT STATUS!!Own children of the householder under 6 years!!All parents in family in labor force,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0015PE,Percent Estimate!!EMPLOYMENT STATUS!!Own children of the householder under 6 years!!All parents in family in labor force,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0016E,Estimate!!EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0016PE,Percent Estimate!!EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0017E,Estimate!!EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years!!All parents in family in labor force,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0017PE,Percent Estimate!!EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years!!All parents in family in labor force,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0018E,Estimate!!COMMUTING TO WORK!!Workers 16 years and over,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0018PE,Percent Estimate!!COMMUTING TO WORK!!Workers 16 years and over,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0019E,"Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- drove alone",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0019PE,"Percent Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- drove alone",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0020E,"Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- carpooled",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0020PE,"Percent Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- carpooled",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0021E,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0021PE,Percent Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab),SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0022E,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Walked,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0022PE,Percent Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Walked,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0023E,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Other means,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0023PE,Percent Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Other means,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0024E,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Worked at home,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0024PE,Percent Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Worked at home,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0025E,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes),SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0025PE,Percent Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0026E,Estimate!!OCCUPATION!!Civilian employed population 16 years and over,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0026PE,Percent Estimate!!OCCUPATION!!Civilian employed population 16 years and over,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0027E,"Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0027PE,"Percent Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0028E,Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0028PE,Percent Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0029E,Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0029PE,Percent Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0030E,"Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0030PE,"Percent Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0031E,"Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0031PE,"Percent Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0032E,Estimate!!INDUSTRY!!Civilian employed population 16 years and over,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0032PE,Percent Estimate!!INDUSTRY!!Civilian employed population 16 years and over,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0033E,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Agriculture, forestry, fishing and hunting, and mining",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0033PE,"Percent Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Agriculture, forestry, fishing and hunting, and mining",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0034E,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Construction,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0034PE,Percent Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Construction,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0035E,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Manufacturing,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0035PE,Percent Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Manufacturing,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0036E,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Wholesale trade,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0036PE,Percent Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Wholesale trade,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0037E,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Retail trade,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0037PE,Percent Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Retail trade,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0038E,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Transportation and warehousing, and utilities",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0038PE,"Percent Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Transportation and warehousing, and utilities",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0039E,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Information,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0039PE,Percent Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Information,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0040E,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Finance and insurance, and real estate and rental and leasing",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0040PE,"Percent Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Finance and insurance, and real estate and rental and leasing",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0041E,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Professional, scientific, and management, and administrative and waste management services",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0041PE,"Percent Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Professional, scientific, and management, and administrative and waste management services",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0042E,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Educational services, and health care and social assistance",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0042PE,"Percent Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Educational services, and health care and social assistance",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0043E,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Arts, entertainment, and recreation, and accommodation and food services",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0043PE,"Percent Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Arts, entertainment, and recreation, and accommodation and food services",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0044E,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Other services, except public administration",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0044PE,"Percent Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Other services, except public administration",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0045E,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Public administration,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0045PE,Percent Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Public administration,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0046E,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0046PE,Percent Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0047E,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Private wage and salary workers,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0047PE,Percent Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Private wage and salary workers,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0048E,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Government workers,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0048PE,Percent Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Government workers,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0049E,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Self-employed in own not incorporated business workers,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0049PE,Percent Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Self-employed in own not incorporated business workers,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0050E,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Unpaid family workers,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0050PE,Percent Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Unpaid family workers,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0051E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0051PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0052E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!Less than $10,000",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0052PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!Less than $10,000",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0053E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$10,000 to $14,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0053PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$10,000 to $14,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0054E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$15,000 to $24,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0054PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$15,000 to $24,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0055E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$25,000 to $34,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0055PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$25,000 to $34,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0056E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$35,000 to $49,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0056PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$35,000 to $49,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0057E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$50,000 to $74,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0057PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$50,000 to $74,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0058E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$75,000 to $99,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0058PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$75,000 to $99,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0059E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$100,000 to $149,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0059PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$100,000 to $149,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0060E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$150,000 to $199,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0060PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$150,000 to $199,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0061E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$200,000 or more",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0061PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!$200,000 or more",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0062E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0062PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0063E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0063PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0064E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0064PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0065E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings!!Mean earnings (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0065PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings!!Mean earnings (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0066E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0066PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0067E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security!!Mean Social Security income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0067PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security!!Mean Social Security income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0068E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0068PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0069E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income!!Mean retirement income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0069PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income!!Mean retirement income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0070E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0070PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0071E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0071PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0072E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0072PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0073E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income!!Mean cash public assistance income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0073PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income!!Mean cash public assistance income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0074E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Food Stamp/SNAP benefits in the past 12 months,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0074PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Food Stamp/SNAP benefits in the past 12 months,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0075E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0075PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0076E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!Less than $10,000",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0076PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!Less than $10,000",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0077E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$10,000 to $14,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0077PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$10,000 to $14,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0078E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$15,000 to $24,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0078PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$15,000 to $24,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0079E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$25,000 to $34,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0079PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$25,000 to $34,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0080E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$35,000 to $49,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0080PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$35,000 to $49,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0081E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$50,000 to $74,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0081PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$50,000 to $74,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0082E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$75,000 to $99,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0082PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$75,000 to $99,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0083E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$100,000 to $149,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0083PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$100,000 to $149,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0084E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$150,000 to $199,999",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0084PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$150,000 to $199,999",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0085E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$200,000 or more",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0085PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!$200,000 or more",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0086E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0086PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0087E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0087PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0088E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Per capita income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0088PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Per capita income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0089E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0089PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0090E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median nonfamily income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0090PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median nonfamily income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0091E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Mean nonfamily income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0091PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Mean nonfamily income (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0092E,Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Median earnings for workers (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0092PE,Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Median earnings for workers (dollars),SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0093E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Median earnings for male full-time, year-round workers (dollars)",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0093PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Median earnings for male full-time, year-round workers (dollars)",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0094E,"Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Median earnings for female full-time, year-round workers (dollars)",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0094PE,"Percent Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Median earnings for female full-time, year-round workers (dollars)",SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0095E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0095PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0096E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0096PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0097E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage!!With private health insurance,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0097PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage!!With private health insurance,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0098E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage!!With public coverage,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0098PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage!!With public coverage,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0099E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!No health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0099PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!No health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0100E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population under 19 years,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0100PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population under 19 years,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0101E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population under 19 years!!No health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0101PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population under 19 years!!No health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0102E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0102PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0103E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0103PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0104E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Employed,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0104PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Employed,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0105E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Employed!!With health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0105PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Employed!!With health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0106E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Employed!!With health insurance coverage!!With private health insurance,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0106PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Employed!!With health insurance coverage!!With private health insurance,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0107E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Employed!!With health insurance coverage!!With public coverage,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0107PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Employed!!With health insurance coverage!!With public coverage,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0108E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Employed!!No health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0108PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Employed!!No health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0109E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Unemployed,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0109PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Unemployed,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0110E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Unemployed!!With health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0110PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Unemployed!!With health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0111E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Unemployed!!With health insurance coverage!!With private health insurance,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0111PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Unemployed!!With health insurance coverage!!With private health insurance,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0112E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Unemployed!!With health insurance coverage!!With public coverage,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0112PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Unemployed!!With health insurance coverage!!With public coverage,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0113E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Unemployed!!No health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0113PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!In labor force!!Unemployed!!No health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0114E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0114PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0115E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force!!With health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0115PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force!!With health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0116E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force!!With health insurance coverage!!With private health insurance,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0116PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force!!With health insurance coverage!!With private health insurance,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0117E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force!!With health insurance coverage!!With public coverage,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0117PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force!!With health insurance coverage!!With public coverage,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0118E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force!!No health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,int
+DP03_0118PE,Percent Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force!!No health insurance coverage,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0119E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0119PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0120E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0120PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0121E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0121PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0122E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0122PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0123E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families!!With related children of the householder under 18 years,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0123PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families!!With related children of the householder under 18 years,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0124E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0124PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0125E,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0125PE,"Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0126E,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present!!With related children of the householder under 18 years",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0126PE,"Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present!!With related children of the householder under 18 years",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0127E,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present!!With related children of the householder under 18 years!!With related children of the householder under 5 years only",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0127PE,"Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present!!With related children of the householder under 18 years!!With related children of the householder under 5 years only",SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0128E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0128PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0129E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0129PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0130E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0130PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0131E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder under 5 years,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0131PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder under 5 years,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0132E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder 5 to 17 years,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0132PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder 5 to 17 years,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0133E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0133PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0134E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!18 to 64 years,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0134PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!18 to 64 years,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0135E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!65 years and over,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0135PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!65 years and over,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0136E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!People in families,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0136PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!People in families,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0137E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Unrelated individuals 15 years and over,SELECTED ECONOMIC CHARACTERISTICS,float
+DP03_0137PE,Percent Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Unrelated individuals 15 years and over,SELECTED ECONOMIC CHARACTERISTICS,float
+DP04_0001E,Estimate!!HOUSING OCCUPANCY!!Total housing units,SELECTED HOUSING CHARACTERISTICS,
+DP04_0001PE,Percent Estimate!!HOUSING OCCUPANCY!!Total housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0002E,Estimate!!HOUSING OCCUPANCY!!Total housing units!!Occupied housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0002PE,Percent Estimate!!HOUSING OCCUPANCY!!Total housing units!!Occupied housing units,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0003E,Estimate!!HOUSING OCCUPANCY!!Total housing units!!Vacant housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0003PE,Percent Estimate!!HOUSING OCCUPANCY!!Total housing units!!Vacant housing units,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0004E,Estimate!!HOUSING OCCUPANCY!!Total housing units!!Homeowner vacancy rate,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0004PE,Percent Estimate!!HOUSING OCCUPANCY!!Total housing units!!Homeowner vacancy rate,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0005E,Estimate!!HOUSING OCCUPANCY!!Total housing units!!Rental vacancy rate,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0005PE,Percent Estimate!!HOUSING OCCUPANCY!!Total housing units!!Rental vacancy rate,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0006E,Estimate!!UNITS IN STRUCTURE!!Total housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0006PE,Percent Estimate!!UNITS IN STRUCTURE!!Total housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0007E,"Estimate!!UNITS IN STRUCTURE!!Total housing units!!1-unit, detached",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0007PE,"Percent Estimate!!UNITS IN STRUCTURE!!Total housing units!!1-unit, detached",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0008E,"Estimate!!UNITS IN STRUCTURE!!Total housing units!!1-unit, attached",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0008PE,"Percent Estimate!!UNITS IN STRUCTURE!!Total housing units!!1-unit, attached",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0009E,Estimate!!UNITS IN STRUCTURE!!Total housing units!!2 units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0009PE,Percent Estimate!!UNITS IN STRUCTURE!!Total housing units!!2 units,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0010E,Estimate!!UNITS IN STRUCTURE!!Total housing units!!3 or 4 units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0010PE,Percent Estimate!!UNITS IN STRUCTURE!!Total housing units!!3 or 4 units,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0011E,Estimate!!UNITS IN STRUCTURE!!Total housing units!!5 to 9 units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0011PE,Percent Estimate!!UNITS IN STRUCTURE!!Total housing units!!5 to 9 units,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0012E,Estimate!!UNITS IN STRUCTURE!!Total housing units!!10 to 19 units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0012PE,Percent Estimate!!UNITS IN STRUCTURE!!Total housing units!!10 to 19 units,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0013E,Estimate!!UNITS IN STRUCTURE!!Total housing units!!20 or more units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0013PE,Percent Estimate!!UNITS IN STRUCTURE!!Total housing units!!20 or more units,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0014E,Estimate!!UNITS IN STRUCTURE!!Total housing units!!Mobile home,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0014PE,Percent Estimate!!UNITS IN STRUCTURE!!Total housing units!!Mobile home,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0015E,"Estimate!!UNITS IN STRUCTURE!!Total housing units!!Boat, RV, van, etc.",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0015PE,"Percent Estimate!!UNITS IN STRUCTURE!!Total housing units!!Boat, RV, van, etc.",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0016E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0016PE,Percent Estimate!!YEAR STRUCTURE BUILT!!Total housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0017E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2014 or later,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0017PE,Percent Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2014 or later,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0018E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2010 to 2013,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0018PE,Percent Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2010 to 2013,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0019E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2000 to 2009,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0019PE,Percent Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2000 to 2009,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0020E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1990 to 1999,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0020PE,Percent Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1990 to 1999,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0021E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1980 to 1989,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0021PE,Percent Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1980 to 1989,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0022E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1970 to 1979,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0022PE,Percent Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1970 to 1979,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0023E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1960 to 1969,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0023PE,Percent Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1960 to 1969,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0024E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1950 to 1959,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0024PE,Percent Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1950 to 1959,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0025E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1940 to 1949,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0025PE,Percent Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1940 to 1949,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0026E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1939 or earlier,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0026PE,Percent Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1939 or earlier,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0027E,Estimate!!ROOMS!!Total housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0027PE,Percent Estimate!!ROOMS!!Total housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0028E,Estimate!!ROOMS!!Total housing units!!1 room,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0028PE,Percent Estimate!!ROOMS!!Total housing units!!1 room,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0029E,Estimate!!ROOMS!!Total housing units!!2 rooms,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0029PE,Percent Estimate!!ROOMS!!Total housing units!!2 rooms,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0030E,Estimate!!ROOMS!!Total housing units!!3 rooms,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0030PE,Percent Estimate!!ROOMS!!Total housing units!!3 rooms,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0031E,Estimate!!ROOMS!!Total housing units!!4 rooms,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0031PE,Percent Estimate!!ROOMS!!Total housing units!!4 rooms,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0032E,Estimate!!ROOMS!!Total housing units!!5 rooms,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0032PE,Percent Estimate!!ROOMS!!Total housing units!!5 rooms,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0033E,Estimate!!ROOMS!!Total housing units!!6 rooms,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0033PE,Percent Estimate!!ROOMS!!Total housing units!!6 rooms,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0034E,Estimate!!ROOMS!!Total housing units!!7 rooms,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0034PE,Percent Estimate!!ROOMS!!Total housing units!!7 rooms,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0035E,Estimate!!ROOMS!!Total housing units!!8 rooms,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0035PE,Percent Estimate!!ROOMS!!Total housing units!!8 rooms,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0036E,Estimate!!ROOMS!!Total housing units!!9 rooms or more,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0036PE,Percent Estimate!!ROOMS!!Total housing units!!9 rooms or more,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0037E,Estimate!!ROOMS!!Total housing units!!Median rooms,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0037PE,Percent Estimate!!ROOMS!!Total housing units!!Median rooms,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0038E,Estimate!!BEDROOMS!!Total housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0038PE,Percent Estimate!!BEDROOMS!!Total housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0039E,Estimate!!BEDROOMS!!Total housing units!!No bedroom,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0039PE,Percent Estimate!!BEDROOMS!!Total housing units!!No bedroom,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0040E,Estimate!!BEDROOMS!!Total housing units!!1 bedroom,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0040PE,Percent Estimate!!BEDROOMS!!Total housing units!!1 bedroom,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0041E,Estimate!!BEDROOMS!!Total housing units!!2 bedrooms,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0041PE,Percent Estimate!!BEDROOMS!!Total housing units!!2 bedrooms,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0042E,Estimate!!BEDROOMS!!Total housing units!!3 bedrooms,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0042PE,Percent Estimate!!BEDROOMS!!Total housing units!!3 bedrooms,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0043E,Estimate!!BEDROOMS!!Total housing units!!4 bedrooms,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0043PE,Percent Estimate!!BEDROOMS!!Total housing units!!4 bedrooms,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0044E,Estimate!!BEDROOMS!!Total housing units!!5 or more bedrooms,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0044PE,Percent Estimate!!BEDROOMS!!Total housing units!!5 or more bedrooms,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0045E,Estimate!!HOUSING TENURE!!Occupied housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0045PE,Percent Estimate!!HOUSING TENURE!!Occupied housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0046E,Estimate!!HOUSING TENURE!!Occupied housing units!!Owner-occupied,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0046PE,Percent Estimate!!HOUSING TENURE!!Occupied housing units!!Owner-occupied,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0047E,Estimate!!HOUSING TENURE!!Occupied housing units!!Renter-occupied,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0047PE,Percent Estimate!!HOUSING TENURE!!Occupied housing units!!Renter-occupied,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0048E,Estimate!!HOUSING TENURE!!Occupied housing units!!Average household size of owner-occupied unit,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0048PE,Percent Estimate!!HOUSING TENURE!!Occupied housing units!!Average household size of owner-occupied unit,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0049E,Estimate!!HOUSING TENURE!!Occupied housing units!!Average household size of renter-occupied unit,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0049PE,Percent Estimate!!HOUSING TENURE!!Occupied housing units!!Average household size of renter-occupied unit,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0050E,Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0050PE,Percent Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0051E,Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2017 or later,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0051PE,Percent Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2017 or later,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0052E,Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2015 to 2016,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0052PE,Percent Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2015 to 2016,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0053E,Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2010 to 2014,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0053PE,Percent Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2010 to 2014,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0054E,Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2000 to 2009,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0054PE,Percent Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 2000 to 2009,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0055E,Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1990 to 1999,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0055PE,Percent Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1990 to 1999,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0056E,Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1989 and earlier,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0056PE,Percent Estimate!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Occupied housing units!!Moved in 1989 and earlier,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0057E,Estimate!!VEHICLES AVAILABLE!!Occupied housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0057PE,Percent Estimate!!VEHICLES AVAILABLE!!Occupied housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0058E,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!No vehicles available,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0058PE,Percent Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!No vehicles available,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0059E,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!1 vehicle available,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0059PE,Percent Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!1 vehicle available,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0060E,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!2 vehicles available,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0060PE,Percent Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!2 vehicles available,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0061E,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!3 or more vehicles available,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0061PE,Percent Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!3 or more vehicles available,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0062E,Estimate!!HOUSE HEATING FUEL!!Occupied housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0062PE,Percent Estimate!!HOUSE HEATING FUEL!!Occupied housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0063E,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Utility gas,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0063PE,Percent Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Utility gas,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0064E,"Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Bottled, tank, or LP gas",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0064PE,"Percent Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Bottled, tank, or LP gas",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0065E,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0065PE,Percent Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0066E,"Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Fuel oil, kerosene, etc.",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0066PE,"Percent Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Fuel oil, kerosene, etc.",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0067E,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Coal or coke,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0067PE,Percent Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Coal or coke,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0068E,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Wood,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0068PE,Percent Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Wood,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0069E,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Solar energy,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0069PE,Percent Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Solar energy,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0070E,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Other fuel,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0070PE,Percent Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Other fuel,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0071E,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0071PE,Percent Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0072E,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0072PE,Percent Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0073E,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete plumbing facilities,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0073PE,Percent Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete plumbing facilities,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0074E,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete kitchen facilities,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0074PE,Percent Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete kitchen facilities,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0075E,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0075PE,Percent Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0076E,Estimate!!OCCUPANTS PER ROOM!!Occupied housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0076PE,Percent Estimate!!OCCUPANTS PER ROOM!!Occupied housing units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0077E,Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.00 or less,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0077PE,Percent Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.00 or less,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0078E,Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.01 to 1.50,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0078PE,Percent Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.01 to 1.50,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0079E,Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.51 or more,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0079PE,Percent Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.51 or more,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0080E,Estimate!!VALUE!!Owner-occupied units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0080PE,Percent Estimate!!VALUE!!Owner-occupied units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0081E,"Estimate!!VALUE!!Owner-occupied units!!Less than $50,000",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0081PE,"Percent Estimate!!VALUE!!Owner-occupied units!!Less than $50,000",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0082E,"Estimate!!VALUE!!Owner-occupied units!!$50,000 to $99,999",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0082PE,"Percent Estimate!!VALUE!!Owner-occupied units!!$50,000 to $99,999",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0083E,"Estimate!!VALUE!!Owner-occupied units!!$100,000 to $149,999",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0083PE,"Percent Estimate!!VALUE!!Owner-occupied units!!$100,000 to $149,999",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0084E,"Estimate!!VALUE!!Owner-occupied units!!$150,000 to $199,999",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0084PE,"Percent Estimate!!VALUE!!Owner-occupied units!!$150,000 to $199,999",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0085E,"Estimate!!VALUE!!Owner-occupied units!!$200,000 to $299,999",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0085PE,"Percent Estimate!!VALUE!!Owner-occupied units!!$200,000 to $299,999",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0086E,"Estimate!!VALUE!!Owner-occupied units!!$300,000 to $499,999",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0086PE,"Percent Estimate!!VALUE!!Owner-occupied units!!$300,000 to $499,999",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0087E,"Estimate!!VALUE!!Owner-occupied units!!$500,000 to $999,999",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0087PE,"Percent Estimate!!VALUE!!Owner-occupied units!!$500,000 to $999,999",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0088E,"Estimate!!VALUE!!Owner-occupied units!!$1,000,000 or more",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0088PE,"Percent Estimate!!VALUE!!Owner-occupied units!!$1,000,000 or more",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0089E,Estimate!!VALUE!!Owner-occupied units!!Median (dollars),SELECTED HOUSING CHARACTERISTICS,int
+DP04_0089PE,Percent Estimate!!VALUE!!Owner-occupied units!!Median (dollars),SELECTED HOUSING CHARACTERISTICS,int
+DP04_0090E,Estimate!!MORTGAGE STATUS!!Owner-occupied units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0090PE,Percent Estimate!!MORTGAGE STATUS!!Owner-occupied units,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0091E,Estimate!!MORTGAGE STATUS!!Owner-occupied units!!Housing units with a mortgage,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0091PE,Percent Estimate!!MORTGAGE STATUS!!Owner-occupied units!!Housing units with a mortgage,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0092E,Estimate!!MORTGAGE STATUS!!Owner-occupied units!!Housing units without a mortgage,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0092PE,Percent Estimate!!MORTGAGE STATUS!!Owner-occupied units!!Housing units without a mortgage,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0093E,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0093PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0094E,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Less than $500,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0094PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Less than $500,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0095E,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$500 to $999,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0095PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$500 to $999,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0096E,"Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,000 to $1,499",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0096PE,"Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,000 to $1,499",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0097E,"Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,500 to $1,999",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0097PE,"Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$1,500 to $1,999",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0098E,"Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$2,000 to $2,499",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0098PE,"Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$2,000 to $2,499",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0099E,"Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$2,500 to $2,999",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0099PE,"Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$2,500 to $2,999",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0100E,"Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$3,000 or more",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0100PE,"Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!$3,000 or more",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0101E,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Median (dollars),SELECTED HOUSING CHARACTERISTICS,int
+DP04_0101PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Median (dollars),SELECTED HOUSING CHARACTERISTICS,int
+DP04_0102E,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0102PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0103E,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Less than $250,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0103PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Less than $250,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0104E,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$250 to $399,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0104PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$250 to $399,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0105E,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$400 to $599,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0105PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$400 to $599,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0106E,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$600 to $799,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0106PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$600 to $799,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0107E,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$800 to $999,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0107PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$800 to $999,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0108E,"Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$1,000 or more",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0108PE,"Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!$1,000 or more",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0109E,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Median (dollars),SELECTED HOUSING CHARACTERISTICS,int
+DP04_0109PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage!!Median (dollars),SELECTED HOUSING CHARACTERISTICS,int
+DP04_0110E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),SELECTED HOUSING CHARACTERISTICS,int
+DP04_0110PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),SELECTED HOUSING CHARACTERISTICS,int
+DP04_0111E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 20.0 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0111PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 20.0 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0112E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0112PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0113E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0113PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0114E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0114PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0115E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0115PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0116E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!Not computed,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0116PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)!!Not computed,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0117E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),SELECTED HOUSING CHARACTERISTICS,int
+DP04_0117PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),SELECTED HOUSING CHARACTERISTICS,int
+DP04_0118E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 10.0 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0118PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!Less than 10.0 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0119E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!10.0 to 14.9 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0119PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!10.0 to 14.9 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0120E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!15.0 to 19.9 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0120PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!15.0 to 19.9 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0121E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0121PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!20.0 to 24.9 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0122E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0122PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!25.0 to 29.9 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0123E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0123PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!30.0 to 34.9 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0124E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0124PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!35.0 percent or more,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0125E,Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!Not computed,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0125PE,Percent Estimate!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)!!Not computed,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0126E,Estimate!!GROSS RENT!!Occupied units paying rent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0126PE,Percent Estimate!!GROSS RENT!!Occupied units paying rent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0127E,Estimate!!GROSS RENT!!Occupied units paying rent!!Less than $500,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0127PE,Percent Estimate!!GROSS RENT!!Occupied units paying rent!!Less than $500,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0128E,Estimate!!GROSS RENT!!Occupied units paying rent!!$500 to $999,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0128PE,Percent Estimate!!GROSS RENT!!Occupied units paying rent!!$500 to $999,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0129E,"Estimate!!GROSS RENT!!Occupied units paying rent!!$1,000 to $1,499",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0129PE,"Percent Estimate!!GROSS RENT!!Occupied units paying rent!!$1,000 to $1,499",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0130E,"Estimate!!GROSS RENT!!Occupied units paying rent!!$1,500 to $1,999",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0130PE,"Percent Estimate!!GROSS RENT!!Occupied units paying rent!!$1,500 to $1,999",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0131E,"Estimate!!GROSS RENT!!Occupied units paying rent!!$2,000 to $2,499",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0131PE,"Percent Estimate!!GROSS RENT!!Occupied units paying rent!!$2,000 to $2,499",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0132E,"Estimate!!GROSS RENT!!Occupied units paying rent!!$2,500 to $2,999",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0132PE,"Percent Estimate!!GROSS RENT!!Occupied units paying rent!!$2,500 to $2,999",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0133E,"Estimate!!GROSS RENT!!Occupied units paying rent!!$3,000 or more",SELECTED HOUSING CHARACTERISTICS,int
+DP04_0133PE,"Percent Estimate!!GROSS RENT!!Occupied units paying rent!!$3,000 or more",SELECTED HOUSING CHARACTERISTICS,float
+DP04_0134E,Estimate!!GROSS RENT!!Occupied units paying rent!!Median (dollars),SELECTED HOUSING CHARACTERISTICS,int
+DP04_0134PE,Percent Estimate!!GROSS RENT!!Occupied units paying rent!!Median (dollars),SELECTED HOUSING CHARACTERISTICS,int
+DP04_0135E,Estimate!!GROSS RENT!!Occupied units paying rent!!No rent paid,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0135PE,Percent Estimate!!GROSS RENT!!Occupied units paying rent!!No rent paid,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0136E,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed),SELECTED HOUSING CHARACTERISTICS,int
+DP04_0136PE,Percent Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed),SELECTED HOUSING CHARACTERISTICS,int
+DP04_0137E,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Less than 15.0 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0137PE,Percent Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Less than 15.0 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0138E,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!15.0 to 19.9 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0138PE,Percent Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!15.0 to 19.9 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0139E,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!20.0 to 24.9 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0139PE,Percent Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!20.0 to 24.9 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0140E,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!25.0 to 29.9 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0140PE,Percent Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!25.0 to 29.9 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0141E,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!30.0 to 34.9 percent,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0141PE,Percent Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!30.0 to 34.9 percent,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0142E,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!35.0 percent or more,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0142PE,Percent Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!35.0 percent or more,SELECTED HOUSING CHARACTERISTICS,float
+DP04_0143E,Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Not computed,SELECTED HOUSING CHARACTERISTICS,int
+DP04_0143PE,Percent Estimate!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)!!Occupied units paying rent (excluding units where GRAPI cannot be computed)!!Not computed,SELECTED HOUSING CHARACTERISTICS,int
+DP05_0001E,Estimate!!SEX AND AGE!!Total population,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0001PE,Percent Estimate!!SEX AND AGE!!Total population,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0002E,Estimate!!SEX AND AGE!!Total population!!Male,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0002PE,Percent Estimate!!SEX AND AGE!!Total population!!Male,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0003E,Estimate!!SEX AND AGE!!Total population!!Female,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0003PE,Percent Estimate!!SEX AND AGE!!Total population!!Female,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0004E,Estimate!!SEX AND AGE!!Total population!!Sex ratio (males per 100 females),ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0004PE,Percent Estimate!!SEX AND AGE!!Total population!!Sex ratio (males per 100 females),ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0005E,Estimate!!SEX AND AGE!!Total population!!Under 5 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0005PE,Percent Estimate!!SEX AND AGE!!Total population!!Under 5 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0006E,Estimate!!SEX AND AGE!!Total population!!5 to 9 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0006PE,Percent Estimate!!SEX AND AGE!!Total population!!5 to 9 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0007E,Estimate!!SEX AND AGE!!Total population!!10 to 14 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0007PE,Percent Estimate!!SEX AND AGE!!Total population!!10 to 14 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0008E,Estimate!!SEX AND AGE!!Total population!!15 to 19 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0008PE,Percent Estimate!!SEX AND AGE!!Total population!!15 to 19 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0009E,Estimate!!SEX AND AGE!!Total population!!20 to 24 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0009PE,Percent Estimate!!SEX AND AGE!!Total population!!20 to 24 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0010E,Estimate!!SEX AND AGE!!Total population!!25 to 34 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0010PE,Percent Estimate!!SEX AND AGE!!Total population!!25 to 34 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0011E,Estimate!!SEX AND AGE!!Total population!!35 to 44 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0011PE,Percent Estimate!!SEX AND AGE!!Total population!!35 to 44 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0012E,Estimate!!SEX AND AGE!!Total population!!45 to 54 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0012PE,Percent Estimate!!SEX AND AGE!!Total population!!45 to 54 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0013E,Estimate!!SEX AND AGE!!Total population!!55 to 59 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0013PE,Percent Estimate!!SEX AND AGE!!Total population!!55 to 59 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0014E,Estimate!!SEX AND AGE!!Total population!!60 to 64 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0014PE,Percent Estimate!!SEX AND AGE!!Total population!!60 to 64 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0015E,Estimate!!SEX AND AGE!!Total population!!65 to 74 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0015PE,Percent Estimate!!SEX AND AGE!!Total population!!65 to 74 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0016E,Estimate!!SEX AND AGE!!Total population!!75 to 84 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0016PE,Percent Estimate!!SEX AND AGE!!Total population!!75 to 84 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0017E,Estimate!!SEX AND AGE!!Total population!!85 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0017PE,Percent Estimate!!SEX AND AGE!!Total population!!85 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0018E,Estimate!!SEX AND AGE!!Total population!!Median age (years),ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0018PE,Percent Estimate!!SEX AND AGE!!Total population!!Median age (years),ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0019E,Estimate!!SEX AND AGE!!Total population!!Under 18 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0019PE,Percent Estimate!!SEX AND AGE!!Total population!!Under 18 years,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0020E,Estimate!!SEX AND AGE!!Total population!!16 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0020PE,Percent Estimate!!SEX AND AGE!!Total population!!16 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0021E,Estimate!!SEX AND AGE!!Total population!!18 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0021PE,Percent Estimate!!SEX AND AGE!!Total population!!18 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0022E,Estimate!!SEX AND AGE!!Total population!!21 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0022PE,Percent Estimate!!SEX AND AGE!!Total population!!21 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0023E,Estimate!!SEX AND AGE!!Total population!!62 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0023PE,Percent Estimate!!SEX AND AGE!!Total population!!62 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0024E,Estimate!!SEX AND AGE!!Total population!!65 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0024PE,Percent Estimate!!SEX AND AGE!!Total population!!65 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0025E,Estimate!!SEX AND AGE!!Total population!!18 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0025PE,Percent Estimate!!SEX AND AGE!!Total population!!18 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0026E,Estimate!!SEX AND AGE!!Total population!!18 years and over!!Male,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0026PE,Percent Estimate!!SEX AND AGE!!Total population!!18 years and over!!Male,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0027E,Estimate!!SEX AND AGE!!Total population!!18 years and over!!Female,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0027PE,Percent Estimate!!SEX AND AGE!!Total population!!18 years and over!!Female,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0028E,Estimate!!SEX AND AGE!!Total population!!18 years and over!!Sex ratio (males per 100 females),ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0028PE,Percent Estimate!!SEX AND AGE!!Total population!!18 years and over!!Sex ratio (males per 100 females),ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0029E,Estimate!!SEX AND AGE!!Total population!!65 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0029PE,Percent Estimate!!SEX AND AGE!!Total population!!65 years and over,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0030E,Estimate!!SEX AND AGE!!Total population!!65 years and over!!Male,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0030PE,Percent Estimate!!SEX AND AGE!!Total population!!65 years and over!!Male,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0031E,Estimate!!SEX AND AGE!!Total population!!65 years and over!!Female,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0031PE,Percent Estimate!!SEX AND AGE!!Total population!!65 years and over!!Female,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0032E,Estimate!!SEX AND AGE!!Total population!!65 years and over!!Sex ratio (males per 100 females),ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0032PE,Percent Estimate!!SEX AND AGE!!Total population!!65 years and over!!Sex ratio (males per 100 females),ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0033E,Estimate!!RACE!!Total population,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0033PE,Percent Estimate!!RACE!!Total population,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0034E,Estimate!!RACE!!Total population!!One race,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0034PE,Percent Estimate!!RACE!!Total population!!One race,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0035E,Estimate!!RACE!!Total population!!Two or more races,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0035PE,Percent Estimate!!RACE!!Total population!!Two or more races,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0036E,Estimate!!RACE!!Total population!!One race,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0036PE,Percent Estimate!!RACE!!Total population!!One race,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0037E,Estimate!!RACE!!Total population!!One race!!White,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0037PE,Percent Estimate!!RACE!!Total population!!One race!!White,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0038E,Estimate!!RACE!!Total population!!One race!!Black or African American,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0038PE,Percent Estimate!!RACE!!Total population!!One race!!Black or African American,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0039E,Estimate!!RACE!!Total population!!One race!!American Indian and Alaska Native,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0039PE,Percent Estimate!!RACE!!Total population!!One race!!American Indian and Alaska Native,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0040E,Estimate!!RACE!!Total population!!One race!!American Indian and Alaska Native!!Cherokee tribal grouping,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0040PE,Percent Estimate!!RACE!!Total population!!One race!!American Indian and Alaska Native!!Cherokee tribal grouping,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0041E,Estimate!!RACE!!Total population!!One race!!American Indian and Alaska Native!!Chippewa tribal grouping,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0041PE,Percent Estimate!!RACE!!Total population!!One race!!American Indian and Alaska Native!!Chippewa tribal grouping,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0042E,Estimate!!RACE!!Total population!!One race!!American Indian and Alaska Native!!Navajo tribal grouping,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0042PE,Percent Estimate!!RACE!!Total population!!One race!!American Indian and Alaska Native!!Navajo tribal grouping,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0043E,Estimate!!RACE!!Total population!!One race!!American Indian and Alaska Native!!Sioux tribal grouping,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0043PE,Percent Estimate!!RACE!!Total population!!One race!!American Indian and Alaska Native!!Sioux tribal grouping,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0044E,Estimate!!RACE!!Total population!!One race!!Asian,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0044PE,Percent Estimate!!RACE!!Total population!!One race!!Asian,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0045E,Estimate!!RACE!!Total population!!One race!!Asian!!Asian Indian,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0045PE,Percent Estimate!!RACE!!Total population!!One race!!Asian!!Asian Indian,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0046E,Estimate!!RACE!!Total population!!One race!!Asian!!Chinese,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0046PE,Percent Estimate!!RACE!!Total population!!One race!!Asian!!Chinese,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0047E,Estimate!!RACE!!Total population!!One race!!Asian!!Filipino,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0047PE,Percent Estimate!!RACE!!Total population!!One race!!Asian!!Filipino,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0048E,Estimate!!RACE!!Total population!!One race!!Asian!!Japanese,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0048PE,Percent Estimate!!RACE!!Total population!!One race!!Asian!!Japanese,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0049E,Estimate!!RACE!!Total population!!One race!!Asian!!Korean,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0049PE,Percent Estimate!!RACE!!Total population!!One race!!Asian!!Korean,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0050E,Estimate!!RACE!!Total population!!One race!!Asian!!Vietnamese,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0050PE,Percent Estimate!!RACE!!Total population!!One race!!Asian!!Vietnamese,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0051E,Estimate!!RACE!!Total population!!One race!!Asian!!Other Asian,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0051PE,Percent Estimate!!RACE!!Total population!!One race!!Asian!!Other Asian,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0052E,Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0052PE,Percent Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0053E,Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Native Hawaiian,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0053PE,Percent Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Native Hawaiian,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0054E,Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Guamanian or Chamorro,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0054PE,Percent Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Guamanian or Chamorro,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0055E,Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Samoan,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0055PE,Percent Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Samoan,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0056E,Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Other Pacific Islander,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0056PE,Percent Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Other Pacific Islander,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0057E,Estimate!!RACE!!Total population!!One race!!Some other race,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0057PE,Percent Estimate!!RACE!!Total population!!One race!!Some other race,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0058E,Estimate!!RACE!!Total population!!Two or more races,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0058PE,Percent Estimate!!RACE!!Total population!!Two or more races,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0059E,Estimate!!RACE!!Total population!!Two or more races!!White and Black or African American,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0059PE,Percent Estimate!!RACE!!Total population!!Two or more races!!White and Black or African American,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0060E,Estimate!!RACE!!Total population!!Two or more races!!White and American Indian and Alaska Native,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0060PE,Percent Estimate!!RACE!!Total population!!Two or more races!!White and American Indian and Alaska Native,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0061E,Estimate!!RACE!!Total population!!Two or more races!!White and Asian,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0061PE,Percent Estimate!!RACE!!Total population!!Two or more races!!White and Asian,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0062E,Estimate!!RACE!!Total population!!Two or more races!!Black or African American and American Indian and Alaska Native,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0062PE,Percent Estimate!!RACE!!Total population!!Two or more races!!Black or African American and American Indian and Alaska Native,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0063E,Estimate!!Race alone or in combination with one or more other races!!Total population,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0063PE,Percent Estimate!!Race alone or in combination with one or more other races!!Total population,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0064E,Estimate!!Race alone or in combination with one or more other races!!Total population!!White,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0064PE,Percent Estimate!!Race alone or in combination with one or more other races!!Total population!!White,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0065E,Estimate!!Race alone or in combination with one or more other races!!Total population!!Black or African American,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0065PE,Percent Estimate!!Race alone or in combination with one or more other races!!Total population!!Black or African American,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0066E,Estimate!!Race alone or in combination with one or more other races!!Total population!!American Indian and Alaska Native,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0066PE,Percent Estimate!!Race alone or in combination with one or more other races!!Total population!!American Indian and Alaska Native,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0067E,Estimate!!Race alone or in combination with one or more other races!!Total population!!Asian,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0067PE,Percent Estimate!!Race alone or in combination with one or more other races!!Total population!!Asian,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0068E,Estimate!!Race alone or in combination with one or more other races!!Total population!!Native Hawaiian and Other Pacific Islander,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0068PE,Percent Estimate!!Race alone or in combination with one or more other races!!Total population!!Native Hawaiian and Other Pacific Islander,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0069E,Estimate!!Race alone or in combination with one or more other races!!Total population!!Some other race,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0069PE,Percent Estimate!!Race alone or in combination with one or more other races!!Total population!!Some other race,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0070E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0070PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0071E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race),ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0071PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race),ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0072E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Mexican,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0072PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Mexican,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0073E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Puerto Rican,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0073PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Puerto Rican,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0074E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Cuban,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0074PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Cuban,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0075E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Other Hispanic or Latino,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0075PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Other Hispanic or Latino,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0076E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0076PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0077E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!White alone,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0077PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!White alone,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0078E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Black or African American alone,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0078PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Black or African American alone,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0079E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!American Indian and Alaska Native alone,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0079PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!American Indian and Alaska Native alone,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0080E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Asian alone,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0080PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Asian alone,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0081E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0081PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0082E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Some other race alone,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0082PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Some other race alone,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0083E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0083PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
+DP05_0084E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,int
+DP05_0084PE,Percent Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,float
