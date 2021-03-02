@@ -47,7 +47,7 @@ This file contains individual eviction-level information for Hillsborough County
 ### raw/nyc_evictions_geocoded.csv
 This file contains individual eviction-level information for NYC evictions from 2017-2019, sourced from NYC's Open Data portal: https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4. Addresses were cleaned and run through the census.gov batch geocoder to retrieve census tracts for most rows. This file was used to produce the `processed` and `timeseries` datasets above.
 ### tax_lien_prediction/nyc_census_tracts_to_neighborhoods.xlsx
-This file contains a mapping of census tracts to New York City neighborhoods. Use this file in conjunction with the Zillow data file to get estimates of home values over time for the census tracts that make up a particular NYC neighborhood. 
+This file contains a mapping of census tracts to New York City neighborhoods. Use this file in conjunction with the Zillow data file to get estimates of home values over time for the census tracts that make up a particular NYC neighborhood. Sourced from: https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-nynta.page
 ### tax_lien_prediction/nyc_tax_lien_sale_list.csv
 This file contains properties eligible to be included in a tax lien sale due to unpaid utilities or property taxes. Use this file to build a model that predicts tax lien sale events. Sourced from: https://data.cityofnewyork.us/City-Government/Tax-Lien-Sale-Lists/9rz4-mjek
 ### tax_lien_prediction/zillow_nyc_neighborhoods_typical_home_values_time_series.xlsx
