@@ -1,0 +1,8 @@
+# Datasets with Suggested Uses
+This section (copied from the main readme) gives a very brief overview of the files in the `data/tax_lien_prediction` folder.
+### tax_lien_prediction/nyc_census_tracts_to_neighborhoods.xlsx
+This file contains a mapping of census tracts to New York City neighborhoods. Use this file in conjunction with the Zillow data file to get estimates of home values over time for the census tracts that make up a particular NYC neighborhood. Sourced from: https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-nynta.page
+### tax_lien_prediction/nyc_tax_lien_sale_list.csv
+This file contains properties eligible to be included in a tax lien sale due to unpaid utilities or property taxes. Use this file to build a model that predicts tax lien sale events. Sourced from: https://data.cityofnewyork.us/City-Government/Tax-Lien-Sale-Lists/9rz4-mjek
+### tax_lien_prediction/zillow_nyc_neighborhoods_typical_home_values_time_series.xlsx
+This file contains roughly 25 years of monthly time series for "typical" home values by neighborhood in NYC. Sourced from: https://www.zillow.com/research/data/. Notes: according to Zillow, these values represent homes in the 35th to 65th percentile; very low-valued homes and very high-valued homes are excluded. Additionally, the neighborhood names in this file do *not* directly map to the neighborhood names in the `nyc_census_tracts_to_neighborhoods.xlsx` file - some manual adjustments may be needed to ensure that neighborhood names are consistent across all files.
