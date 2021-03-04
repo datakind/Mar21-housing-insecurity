@@ -8,17 +8,43 @@
 
 # clean the workspace
 rm(list = ls())
+
 # required libraries
-library(tidyverse)
+library(tidyverse) # for data manipulation
 library(data.table) # for setnames()
 
+# read the raw dataset in memory
+df_nycacs_raw <- read.csv("data/acs/nyc_acs5-2018_census.csv", na.strings = NA)
+df_nycevict_raw <- read.csv("data/raw/nyc_evictions_geocoded.csv", na.strings = NA)
 
-# load the data tract only data file for cleaning
-df_nycacs_raw <- read.csv("data/acs/nyc_acs5-2018_census.csv")
-df_nycevict_raw <- read.csv("data/raw/nyc_evictions_geocoded.csv")
+# 1. Exploratory Data Analysis
 
+# 1.1. check data dimension
 dim(df_nycacs_raw) # 2167 rows in 1034 cols
 dim(df_nycevict_raw) # [1] 60788 rows in  23 cols
+
+# 1.2. check for missing data
+sum(is.na(df_nycacs_raw)) # 0 missing values
+sum(is.na(df_nycevict_raw)) # [1] 26645 missing values
+colSums(is.na(df_nycevict_raw))
+
+# 1.3 Find variables with zero variance
+excluded_vars  <- df_nycacs_raw %>%
+  summarise_all(var) %>%
+  select_if(function(.) . == 0) %>% 
+  names() ## Finding: 50 variables with zero variance 
+
+# remove the 50 variables with zero variance
+df_nycacs_raw<- df_nycacs_raw %>%
+  select(-one_of(excluded_vars))
+dim(df_nycacs_raw) # [1] 2167  984
+
+# remove missing data from df_nycevict_raw dataframe
+df_nycevict_raw <- df_nycevict_raw %>%
+  drop_na()
+colSums(is.na(df_nycevict_raw))
+# write clean nyc geocoded data to disk
+write.csv(df_nycevict_raw, file =  "data//_volunteer_created_datasets//df_nycevict_raw.csv")
 
 # Data Engineering
 
@@ -58,7 +84,7 @@ df_nycevict_raw$executed_month <- plyr::revalue(df_nycevict_raw$executed_month,
 df_nycevict_raw$tract_code<- as.character(df_nycevict_raw$tract_code)
 # So I'll now join both these files on tract_code
 df_nycacs_evict_raw <- inner_join(df_nycacs_raw, df_nycevict_raw, by=c("tract_code"))
-dim(df_nycacs_evict_raw) # [1] 3730 rows with 1060 columns
+dim(df_nycacs_evict_raw) # [1] 3730 rows with 1010 columns
 # lowercase column names
 lowercase_cols<- function(df){
   for (col in colnames(df)) {
@@ -68,52 +94,57 @@ lowercase_cols<- function(df){
 }
 # lower case all variable names
 df_nycacs_evict_raw <- lowercase_cols(df_nycacs_evict_raw)
-# Rename the column names for acs data file
 
-#df_temp <- df_nycacs_evict_raw
+# Rename the column names for acs data file
 setnames(df_nycacs_evict_raw, 
          old = c("dp03_0052e", "dp03_0062e", "dp03_0066e", "dp03_0068e",
                  "dp03_0074e", "dp03_0075e", "dp03_0076e", "dp03_0086e",
-                 "dp03_0093e", "dp03_0094e", "dp03_0120e", "dp03_0121e", 
-                 "dp03_0123e", "dp03_0124e", "dp03_0125e", "dp03_0126e", 
-                 "dp03_0129e", "dp03_0130e", "dp03_0131e", "dp03_0132e",
-                 "dp04_0117e", "dp04_0136e", "dp04_0137e","dp04_0138e", 
-                 "dp04_0139e", "dp04_0140e", "dp04_0141e", "dp04_0142e"),
+                 "dp03_0093e", "dp03_0094e", "dp04_0117e", "dp04_0136e", 
+                 "dp04_0137e", "dp04_0138e", "dp04_0139e", "dp04_0140e", 
+                 "dp04_0141e", "dp04_0142e"),
          
          new = c("huse_incm_less10K", "huse_incm_median","huse_with_ssn","huse_incm_retr",
                  "huse_incm_with_fdstmp","fmlys","fmly_incm_less10K","fmly_incm_median",
-                 "wrkr_erng_male", "wrkr_erng_female","bpl_fmly_child_less18YR","bpl_fmly_child_less5YR",
-                 "bpl_fmly_cple_child_less18YR","bpl_fmly_cple_child_less5YR","bpl_fmly_HOD_female","bpl_fmly_Headfemale_child_less18YR",
-                 "bpl_fmly_all_less18YR","bpl_fmly_all_child_less18YR","bpl_fmly_all_child_less5YR", "bpl_fmly_all_child_5YR-17YR",
-                 "huse_mrtg_no","huse_incm_by_rent","huse_incm_by_rent_less15pct","huse_incm_by_rent_less20pct",
-                 "huse_incm_by_rent_less25pct","huse_incm_by_rent_less30pct","huse_incm_by_rent_less35pct","huse_incm_by_rent_more35pct"
+                 "wrkr_erng_male", "wrkr_erng_female", "huse_mrtg_no","huse_incm_by_rent",
+                 "huse_incm_by_rent_less15pct","huse_incm_by_rent_less20pct",
+                 "huse_incm_by_rent_less25pct","huse_incm_by_rent_less30pct",
+                 "huse_incm_by_rent_less35pct","huse_incm_by_rent_more35pct"
                  )
          )
 
 # subset the data based on identified variables from the data dictionary
 subset_vars <- c("huse_incm_less10K", "huse_incm_median","huse_with_ssn","huse_incm_retr",
                  "huse_incm_with_fdstmp","fmlys","fmly_incm_less10K","fmly_incm_median",
-                 "wrkr_erng_male", "wrkr_erng_female","bpl_fmly_child_less18YR","bpl_fmly_child_less5YR",
-                 "bpl_fmly_cple_child_less18YR","bpl_fmly_cple_child_less5YR","bpl_fmly_HOD_female","bpl_fmly_Headfemale_child_less18YR",
-                 "bpl_fmly_all_less18YR","bpl_fmly_all_child_less18YR","bpl_fmly_all_child_less5YR", "bpl_fmly_all_child_5YR-17YR",
-                 "huse_mrtg_no","huse_incm_by_rent","huse_incm_by_rent_less15pct","huse_incm_by_rent_less20pct",
-                 "huse_incm_by_rent_less25pct","huse_incm_by_rent_less30pct","huse_incm_by_rent_less35pct","huse_incm_by_rent_more35pct",
+                 "wrkr_erng_male", "wrkr_erng_female", "huse_mrtg_no","huse_incm_by_rent",
+                 "huse_incm_by_rent_less15pct","huse_incm_by_rent_less20pct",
+                 "huse_incm_by_rent_less25pct","huse_incm_by_rent_less30pct",
+                 "huse_incm_by_rent_less35pct","huse_incm_by_rent_more35pct",
+                 
                  "court_index_number", "docket_number","eviction_address","eviction_apt_num",
                  "executed_year","executed_month" ,"executed_day", "marshal_first_name",
                  "marshal_last_name","residential_commercial_ind","borough","eviction_zip",
                  "address.cleaned", "state","input_address","match_indicator" ,"match_type",
                  "matched_address","lon","lat","tiger_line_id","side", "state_code",
-                 "county_code", "tract_code", "block_code")
+                 "county_code", "tract_code", "block_code"
+                 )
+# write to disc
 write.csv(df_nycacs_evict_raw, file =  "data//_volunteer_created_datasets//df_nycacs_evict_raw.csv")
 
 # Take a subset of nycacs_evict_raw file by using the variables identified above (see "subset_vars" variable) for further analysis
 df_subset<- df_nycacs_evict_raw[,subset_vars]
-# lowercase all cols
+dim(df_subset) # [1] 3730 rows in 44 variables
+# lowercase all variables
 df_subset<- lowercase_cols(df_subset)
-write.csv(df_subset, file =  "data//_volunteer_created_datasets//df_nycacs_evict_raw_subset.csv")
-dim(df_subset) # [1] 3730 rows in 54 cols
-names(df_subset)
-str(df_subset) # 1:28 are numeric cols
 
+str(df_subset) # 1:18 are continuous variables
 # data summary for continuous variables
-summary(df_subset[,c(1:28)])
+summary(df_subset[,c(1:18)]) # finding: variable wrkr_erng_male has negative value. replace it with 0
+table(df_subset$wrkr_erng_male) # 45 negative values
+# filter out negative values from variable wrkr_erng_male
+df_subset<- df_subset %>%
+  filter(wrkr_erng_male>0)
+
+# write to disc
+write.csv(df_subset, file =  "data//_volunteer_created_datasets//df_nycacs_evict_raw_subset.csv")
+
+
