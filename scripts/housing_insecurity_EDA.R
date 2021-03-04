@@ -104,13 +104,13 @@ subset_vars <- c("huse_incm_less10K", "huse_incm_median","huse_with_ssn","huse_i
                  "address.cleaned", "state","input_address","match_indicator" ,"match_type",
                  "matched_address","lon","lat","tiger_line_id","side", "state_code",
                  "county_code", "tract_code", "block_code")
-write.csv(df_nycacs_evict_raw, file =  "data//raw//df_nycacs_evict_raw.csv")
+write.csv(df_nycacs_evict_raw, file =  "data//_volunteer_created_datasets//df_nycacs_evict_raw.csv")
 
 # Take a subset of nycacs_evict_raw file by using the variables identified above (see "subset_vars" variable) for further analysis
 df_subset<- df_nycacs_evict_raw[,subset_vars]
 # lowercase all cols
 df_subset<- lowercase_cols(df_subset)
-write.csv(df_subset, file =  "data//raw//df_nycacs_evict_raw_subset.csv")
+write.csv(df_subset, file =  "data//_volunteer_created_datasets//df_nycacs_evict_raw_subset.csv")
 dim(df_subset) # [1] 3730 rows in 54 cols
 names(df_subset)
 str(df_subset) # 1:28 are numeric cols
