@@ -3,7 +3,7 @@
 # required data files: nyc_acs5-2018_census.csv, nyc_evictions_geocoded.csv
 # Script author: Ashish Dutt
 # Script create date: 02/3/2021
-# Script last modified date: 03/3/2021
+# Script last modified date: 04/3/2021
 # Email: ashish.dutt8@gmail.com
 
 # clean the workspace
