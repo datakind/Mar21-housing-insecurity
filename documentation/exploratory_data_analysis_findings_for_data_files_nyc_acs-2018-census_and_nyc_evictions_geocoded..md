@@ -1,4 +1,4 @@
-## Findings for data file named nyc_acs-2018-census.csv
+## Findings for data file named, `nyc_acs-2018-census.csv`
 
 Note: variables/columns are synonyms in this report.
 
@@ -32,7 +32,7 @@ Post removing the 50 variables with zero variance, I selected the following 18 v
 |17|dp04_0141e|huse_incm_by_rent_less35pct| Gross rent as percentage of household income less than 35%|0|519|
 |18|dp04_0142e|huse_incm_by_rent_more35pct| Gross rent as percentage of household income more than 35%|0|1448|
 
-## Findings for data file named nyc_evictions_geocoded.csv
+## Findings for data file named, `nyc_evictions_geocoded.csv`
 
 |S.No.|Metric|Finding/Observation|
 |-----|----|-----|
