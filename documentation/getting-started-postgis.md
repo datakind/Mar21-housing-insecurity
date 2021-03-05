@@ -6,7 +6,7 @@ This document discusses how to access a PostgreSQL/PostGIS instance that's been 
 
 This may be a good place to start if you're familiar with analyzing data in SQL, writing queries, or working with geospatial data in Tableau or QGIS. There are many other UI-based tools that allow you to view and query PostGIS databases. If you don't already have a favorite, I'd recommend starting with [DBeaver](https://dbeaver.io), which offers an interactive mapping panel when you're querying spatial databases.
 
-Please refer to this [workshop](https://postgis.net/workshops/postgis-intro/) from the PostGIS Docs for a great primer on common geospatial operations.
+Please refer to this [workshop](https://postgis.net/workshops/postgis-intro/) from the PostGIS Docs for a great primer on common geospatial operations (Code examples in R + general examples/theory).
 
 ## Accessing the DB
 

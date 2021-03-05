@@ -1,6 +1,6 @@
 # Getting Started With Docker
 
-This docuement discusses how to install Docker and start a container with a suite of common geospatial analysis and visualization packages pre-installed, including [GeoPandas](https://geopandas.org/gallery/index.html), [Cartopy](https://scitools.org.uk/cartopy/docs/latest/gallery/index.html), and [Folium](https://geopandas.org/gallery/polygon_plotting_with_folium.html)
+This docuement discusses how to install Docker and start a container with a suite of common geospatial analysis and visualization packages pre-installed, including [GeoPandas](https://geopandas.org/gallery/index.html), [Cartopy](https://scitools.org.uk/cartopy/docs/latest/gallery/index.html), and [Folium](https://geopandas.org/gallery/polygon_plotting_with_folium.html) Also consider reading through a primer on [GIS](https://mgimond.github.io/Spatial/introGIS.html), map-making, etc.
 
 Following the steps below should allow you to explore and visualize data for these counties in an isolated, stable environment without trying to resolve dependancies and installation on your machine.
 
