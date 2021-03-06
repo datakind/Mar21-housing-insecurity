@@ -1,0 +1,4 @@
+
+
+### nyc_tax_lien_sale_list_processed_acs.csv.gz
+This file contains data aggregated from the files `/processed/nyc_processed_2017_to_2019_20210225.csv` and `nyc_tax_lien_sale_list_geocoded_benchmark4vintage410.csv` from the Google Drive folder. It addes ACS variables to properties eligible to be included in a tax lien sale on the basis of GEOID, which are unique geographic identifiers of areas for which the Census Bureau tabulates data. In this case, the GEOID was computed from the geocoded data in `nyc_tax_lien_sale_list_geocoded_benchmark4vintage410.csv` by combining state code (2 digits), county code (3 digits), and census tract code (6 digits), in that order, to create an 11 digit GEOID matching the ones in the ACS census data that represent census tract areas. For more information on GEOIDs check the Census Bureau website [here](https://www.census.gov/programs-surveys/geography/guidance/geo-identifiers.html).
