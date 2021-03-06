@@ -5,17 +5,17 @@ import plotly.express as px
 import pandas as pd
 import numpy as np
 import geopandas
+import os
 from dash.dependencies import Input, Output
 
-data_path = "/home/dgillen/notebooks/Mar21-housing-insecurity/data/"
-df = pd.read_csv(data_path + 'processed/hillsborough_fl_processed_2017_to_2019_20210225.csv')
+MAPBOX_ACCESS_TOKEN = os.environ["MAPBOX_ACCESS_TOKEN"]
+DATA_PATH = os.environ["DATA_PATH"]
+
+df = pd.read_csv(DATA_PATH + 'processed/hillsborough_fl_processed_2017_to_2019_20210225.csv')
 
 import json
-with open("/home/dgillen/notebooks/Mar21-housing-insecurity/data/geo/hillsborough_fl_2010_tracts_formatted.geojson") as json_file:
+with open(DATA_PATH + "geo/hillsborough_fl_2010_tracts_formatted.geojson") as json_file:
     ct_fl_geo_json = json.load(json_file)
-
-mean_long = -73.93865
-mean_lat = 40.788143
 
 mean_long_fl = -82.640305
 mean_lat_fl = 28.027870
@@ -33,8 +33,7 @@ def create_fig(col_name):
                        locations="census_tract_GEOID", featureidkey="properties.census_tract_GEOID",opacity=0.5,
                        mapbox_style="streets")
     fig.update_layout(height=1000,title = "")
-            #scat_fig.update_layout(margin={"r":0,"t":40,"l":0,"b":0,'pad':15})
-    fig.update_layout(mapbox_style="streets", mapbox_accesstoken='pk.eyJ1IjoiZGdpbGxlbiIsImEiOiJjam85OGFvaXIxZXRlM2tubG8zY3E0OHh1In0.KkjAoFhjOOFjXAEuZ1IRog',
+    fig.update_layout(mapbox_style="streets", mapbox_accesstoken=MAPBOX_ACCESS_TOKEN,
                             mapbox_zoom=9, 
                             mapbox_center = {"lat": mean_lat_fl, "lon": mean_long_fl}
                             )  
