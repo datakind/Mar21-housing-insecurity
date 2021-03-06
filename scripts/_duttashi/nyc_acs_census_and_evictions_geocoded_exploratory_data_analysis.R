@@ -113,7 +113,7 @@ setnames(df_raw_nycacsevict,
          )
 dim(df_raw_nycacsevict)
 # write the raw data file containing both nyc acs and nyc evict data to disc
-write.csv(df_raw_nycacsevict, file =  "data//_volunteer_created_datasets//df_raw_nycacsevict.csv")
+write.csv(df_raw_nycacsevict, file =  "data//_volunteer_created_datasets//_duttashi//df_raw_nycacsevict.csv")
 
 # subset the data based on identified variables from the data dictionary
 subset_vars <- c("huse_incm_less10K", "huse_incm_median","huse_with_ssn","huse_incm_retr",
