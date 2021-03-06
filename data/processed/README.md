@@ -1,0 +1,12 @@
+# Datasets with Suggested Uses
+This section (copied from the main readme) gives a very brief overview of the files in the `data/processed` folder.
+### processed/hillsborough_fl_processed_2017_to_2019_20210225.csv
+This file contains data aggregated from the raw Hillsborough County eviction, mortgage foreclosure, and tax lien foreclosure data (see the `raw` folder for these files) together with select variables from the American Community Survey. Use this file to build maps of housing loss for Hillsborough County, or to perform basic statistical analysis of the drivers of housing loss in this locality.
+### processed/hillsborough_fl_processed_expanded_ACS_2017_to_2019_20210225.csv
+This file is an expansion of the processed dataset above (`hillsborough_fl_processed_2017_to_2019_20210225.csv`). It contains all the information of the processed dataset, as well as additional socioeconomic & demographic parameters merged from the ACS tract-level survey (`acs/hillsborough_acs5-2018_census.csv`)
+### processed/hillsborough_fl_processed_timeseries_2017_to_2019_20210225.csv
+This file contains data aggregated from the raw Hillsborough County eviction, mortgage foreclosure, and tax lien foreclosure data (see the `raw` folder for these files) and consists of monthly time series for housing loss. Use this file to generate time series plots of housing loss for Hillsborough County.
+### processed/nyc_processed_2017_to_2019_20210225.csv
+This file contains data aggregated from the raw New York City eviction data (see the `raw` folder for this file) together with select variables from the American Community Survey. Use this file to build maps of housing loss for New York City, or to perform basic statistical analysis of the drivers of housing loss in this locality.
+### processed/nyc_processed_timeseries_2017_to_2019_20210225.csv
+This file contains data aggregated from the raw New York City eviction data (see the `raw` folder for these files) and consists of monthly time series for housing loss. Use this file to generate time series plots of housing loss for New York City. Note: the `eviction-filings` column is an estimate, as only disposed and fully executed evictions are present in the raw dataset provided by the city (in other words, eviction cases that did not result in the tenant's removal are not found in that dataset). These estimates were derived using The Eviction Lab's counts of eviction filings and evictions for NYC from 2014-2016, found here: https://data-downloads.evictionlab.org/
