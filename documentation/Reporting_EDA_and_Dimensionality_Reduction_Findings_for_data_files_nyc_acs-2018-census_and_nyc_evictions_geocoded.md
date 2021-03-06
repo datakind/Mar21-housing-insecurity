@@ -3,8 +3,9 @@
 
 A comprehensive EDA & DR was conducted. The results are presented as follows;
 
+
 |Data File|Total observations (rows)|Total variables (columns)|Missing values count|Count of Zero Variance variables|Count of Near Zero Variance variables|
-|----|----|-----|----|-----|
+|-----|----|-----|----|----|----|
 |nyc_acs5-2018_census.csv|2167|1034|0|50|108|
 |nyc_evictions_geocoded.csv|60788|23|26645|50|3|
 
