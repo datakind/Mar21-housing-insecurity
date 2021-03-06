@@ -1,0 +1,9 @@
+eviction_data_path: "/Users/yelverto/repos/DataKind/new-america-fpr/fpr/temp_data/hillsborough/hillsborough_county_evictions_geocoded.csv"
+path_to_eviction_filing_rates: "/Users/yelverto/repos/DataKind/new-america-fpr/fpr/temp_data/hillsborough/geocode/hillsborough_county_eviction_rates_by_tract_2014_through_2016.csv"
+mortgage_foreclosure_data_path: "/Users/yelverto/repos/DataKind/new-america-fpr/fpr/temp_data/hillsborough/hillsborough_county_mortgage_foreclosures_geocoded.csv"
+tax_foreclosure_data_path: "/Users/yelverto/repos/DataKind/new-america-fpr/fpr/temp_data/hillsborough/hillsborough_county_tax_liens_geocoded.csv"
+acs_data_path: "/Users/yelverto/repos/DataKind/new-america-fpr/fpr/temp_data/hillsborough/hillsborough_acs5-2016_census.csv"
+output_csv_path: "/Users/yelverto/repos/DataKind/new-america-fpr/fpr/temp_data/hillsborough/processed/hillsborough_fl_processed_2017_to_2019_20210225.csv"
+timeseries_output_csv_path: "/Users/yelverto/repos/DataKind/new-america-fpr/fpr/temp_data/hillsborough/processed/hillsborough_fl_processed_timeseries_2017_to_2019_20210225.csv"
+min_year: 2017
+max_year: 2019

@@ -1,0 +1,7 @@
+eviction_data_path: "/Users/yelverto/repos/DataKind/new-america-fpr/fpr/temp_data/nyc/nyc_evictions_geocoded.csv"
+path_to_eviction_filing_rates: "/Users/yelverto/repos/DataKind/new-america-fpr/fpr/temp_data/nyc/geocode/nyc_eviction_rates_by_tract_2014_through_2016.csv"
+acs_data_path: "/Users/yelverto/repos/DataKind/new-america-fpr/fpr/temp_data/nyc/nyc_acs5-2016_census.csv"
+output_csv_path: "/Users/yelverto/repos/DataKind/new-america-fpr/fpr/temp_data/nyc/processed/nyc_processed_2017_to_2019_20210225.csv"
+timeseries_output_csv_path: "/Users/yelverto/repos/DataKind/new-america-fpr/fpr/temp_data/nyc/processed/nyc_processed_timeseries_2017_to_2019_20210225.csv"
+min_year: 2017
+max_year: 2019
