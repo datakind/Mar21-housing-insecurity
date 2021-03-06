@@ -50,14 +50,15 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 us_gdf = geopandas.read_file(f"zip://{repo_path}/data/geo/florida_usdist_2021.zip").to_crs(4326)
 
 
-ctg = ev_fl.groupby('state_senate_district').size().reset_index()
-ctg.columns = ['state_senate_district','num_evictions']
-ctg = ctg.rename(columns={"state_senate_district":"DISTRICT"})
+ctg = ev_fl.groupby('us_district').size().reset_index()
+ctg.columns = ['us_district','num_evictions']
+ctg = ctg.rename(columns={"us_district":"DISTRICT"})
 us_gdf['DISTRICT'] = us_gdf['DISTRICT'].astype(float)
 
 us_gdf = us_gdf.merge(ctg,on='DISTRICT',how='left')
 # Get rid of NaNs
 us_gdf["num_evictions"] = us_gdf["num_evictions"].apply(lambda x: x if x==x else 0)
+us_gdf
 
 jsondata = json.loads(us_gdf.to_json())
 
