@@ -10,7 +10,11 @@
 rm(list = ls())
 
 # required libraries
-library(tidyverse) # for data manipulation
+library(caret) # for nearZeroVar()
+library(magrittr) # for the pipe operator
+library(dplyr) # for data manipulation
+library(tidyr) # for drop_na()
+library(stringr) # for str_extract()
 library(data.table) # for setnames()
 
 # read the raw dataset in memory
@@ -26,25 +30,42 @@ dim(df_raw_nycevict) # [1] 60788 rows in  23 cols
 # 1.2. check for missing data
 sum(is.na(df_raw_nycacs)) # 0 missing values
 sum(is.na(df_raw_nycevict)) # [1] 26645 missing values
-colSums(is.na(df_raw_nycevict))
 
-# 1.3 Find variables with zero variance
+# 1.3 Find variables with zero variance for df_raw_nycacs datafile
 excluded_vars  <- df_raw_nycacs %>%
   summarise_all(var) %>%
   select_if(function(.) . == 0) %>% 
   names() ## Finding: 50 variables with zero variance 
 
-# remove the 50 variables with zero variance
+# remove the 50 variables with zero variance for df_raw_nycacs datafile
 df_raw_nycacs<- df_raw_nycacs %>%
   select(-one_of(excluded_vars))
 dim(df_raw_nycacs) # [1] 2167  984
+
+# Check for near zero variance variables for df_raw_nycacs datafile
+badCols<- nearZeroVar(df_raw_nycacs)
+dim(df_raw_nycacs[,badCols]) # 108 variables with nearzero variance
+names(df_raw_nycacs[,badCols])
+# remove the nearzero variance cols
+df_raw_nycacs<- df_raw_nycacs[, -badCols]
+
+# 1.4 Find variables with zero variance for df_raw_nycevict datafile
+excluded_vars  <- df_raw_nycevict %>%
+  summarise_all(var) %>%
+  select_if(function(.) . == 0) %>% 
+  names() ## Finding: 50 variables with zero variance 
+
+# Check for near zero variance variables
+badCols<- nearZeroVar(df_raw_nycevict)
+dim(df_raw_nycevict[,badCols]) # 3 variables with nearzero variance
+names(df_raw_nycevict[,badCols]) # [1] "RESIDENTIAL_COMMERCIAL_IND" "STATE" "state_code"
+# remove the nearzero variance cols
+df_raw_nycevict<- df_raw_nycevict[, -badCols]
 
 # remove missing data from df_raw_nycevict dataframe
 df_raw_nycevict <- df_raw_nycevict %>%
   drop_na()
 colSums(is.na(df_raw_nycevict))
-# write clean nyc geocoded data to disk
-write.csv(df_raw_nycevict, file =  "data//_volunteer_created_datasets//df_raw_nycevict.csv")
 
 # Data Engineering
 
@@ -82,9 +103,11 @@ df_raw_nycevict$executed_month <- plyr::revalue(df_raw_nycevict$executed_month,
                                                  "11"="Nov","12"="Dec"))
 # I find the variable tract_code is common in both nyc eviction data and nyc acs raw data
 df_raw_nycevict$tract_code<- as.character(df_raw_nycevict$tract_code)
+
+
 # So I'll now join both these files on tract_code
 df_raw_nycacsevict <- inner_join(df_raw_nycacs, df_raw_nycevict, by=c("tract_code"))
-dim(df_raw_nycacsevict) # [1] 3730 rows with 1010 columns
+dim(df_raw_nycacsevict) # [1] 3730 rows with 899 columns
 # lowercase column names
 lowercase_cols<- function(df){
   for (col in colnames(df)) {
@@ -95,57 +118,7 @@ lowercase_cols<- function(df){
 # lower case all variable names
 df_raw_nycacsevict <- lowercase_cols(df_raw_nycacsevict)
 
-# Rename the column names for acs data file
-setnames(df_raw_nycacsevict, 
-         old = c("dp03_0052e", "dp03_0062e", "dp03_0066e", "dp03_0068e",
-                 "dp03_0074e", "dp03_0075e", "dp03_0076e", "dp03_0086e",
-                 "dp03_0093e", "dp03_0094e", "dp04_0117e", "dp04_0136e", 
-                 "dp04_0137e", "dp04_0138e", "dp04_0139e", "dp04_0140e", 
-                 "dp04_0141e", "dp04_0142e"),
-         
-         new = c("huse_incm_less10K", "huse_incm_median","huse_with_ssn","huse_incm_retr",
-                 "huse_incm_with_fdstmp","fmlys","fmly_incm_less10K","fmly_incm_median",
-                 "wrkr_erng_male", "wrkr_erng_female", "huse_mrtg_no","huse_incm_by_rent",
-                 "huse_incm_by_rent_less15pct","huse_incm_by_rent_less20pct",
-                 "huse_incm_by_rent_less25pct","huse_incm_by_rent_less30pct",
-                 "huse_incm_by_rent_less35pct","huse_incm_by_rent_more35pct"
-                 )
-         )
-dim(df_raw_nycacsevict)
-# write the raw data file containing both nyc acs and nyc evict data to disc
-write.csv(df_raw_nycacsevict, file =  "data//_volunteer_created_datasets//_duttashi//df_raw_nycacsevict.csv")
-
-# subset the data based on identified variables from the data dictionary
-subset_vars <- c("huse_incm_less10K", "huse_incm_median","huse_with_ssn","huse_incm_retr",
-                 "huse_incm_with_fdstmp","fmlys","fmly_incm_less10K","fmly_incm_median",
-                 "wrkr_erng_male", "wrkr_erng_female", "huse_mrtg_no","huse_incm_by_rent",
-                 "huse_incm_by_rent_less15pct","huse_incm_by_rent_less20pct",
-                 "huse_incm_by_rent_less25pct","huse_incm_by_rent_less30pct",
-                 "huse_incm_by_rent_less35pct","huse_incm_by_rent_more35pct",
-                 
-                 "court_index_number", "docket_number","eviction_address","eviction_apt_num",
-                 "executed_year","executed_month" ,"executed_day", "marshal_first_name",
-                 "marshal_last_name","residential_commercial_ind","borough","eviction_zip",
-                 "address.cleaned", "state","input_address","match_indicator" ,"match_type",
-                 "matched_address","lon","lat","tiger_line_id","side", "state_code",
-                 "county_code", "tract_code", "block_code"
-                 )
-
-# Take a subset of nycacs_evict_raw file by using the variables identified above (see "subset_vars" variable) for further analysis
-df_subset<- df_raw_nycacsevict[,subset_vars]
-dim(df_subset) # [1] 3730 rows in 44 variables
-# lowercase all variables
-df_subset<- lowercase_cols(df_subset)
-
-str(df_subset) # 1:18 are continuous variables
-# data summary for continuous variables
-summary(df_subset[,c(1:18)]) # finding: variable wrkr_erng_male has negative value. replace it with 0
-table(df_subset$wrkr_erng_male) # 45 negative values
-# filter out negative values from variable wrkr_erng_male
-df_subset<- df_subset %>%
-  filter(wrkr_erng_male>0)
-
 # write to disc
-write.csv(df_subset, file =  "data//_volunteer_created_datasets//df_raw_nycacsevict_subset.csv")
+write.csv(df_raw_nycacsevict, file =  "data//_volunteer_created_datasets//_duttashi/df_raw_nycacs_evict_joined.csv")
 
 
