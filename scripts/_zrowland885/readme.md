@@ -26,4 +26,4 @@ Please note that I made this in a weekend and its probable there are mistakes in
 
 ### Specific acknowledgements
 
-Thanks to ahopejasen and jhirner who merged the processed data and the ACS5 data for NYC and HB, which I have either used or used the generation code in this analysis. I also got some of the ideas for the heatmpas from snnehete's work.
+Thanks to ahopejasen and jhirner who merged the processed data and the ACS5 data for NYC and HB, which I have either used or used the generation code in this analysis. I also got some of the ideas for the heatmaps from snnehete's work.
