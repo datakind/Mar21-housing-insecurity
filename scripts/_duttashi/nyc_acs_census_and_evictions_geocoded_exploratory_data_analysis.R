@@ -3,7 +3,7 @@
 # required data files: nyc_acs5-2018_census.csv, nyc_evictions_geocoded.csv
 # Script author: Ashish Dutt
 # Script create date: 02/3/2021
-# Script last modified date: 04/3/2021
+# Script last modified date: 07/3/2021
 # Email: ashish.dutt8@gmail.com
 
 # clean the workspace
@@ -16,6 +16,8 @@ library(dplyr) # for data manipulation
 library(tidyr) # for drop_na()
 library(stringr) # for str_extract()
 library(data.table) # for setnames()
+library(tidyr) # for separate
+
 
 # read the raw dataset in memory
 df_raw_nycacs <- read.csv("data/acs/nyc_acs5-2018_census.csv", na.strings = NA)
@@ -117,8 +119,9 @@ lowercase_cols<- function(df){
 }
 # lower case all variable names
 df_raw_nycacsevict <- lowercase_cols(df_raw_nycacsevict)
+df_raw_nycacs<- lowercase_cols(df_raw_nycacs)
 
 # write to disc
-write.csv(df_raw_nycacsevict, file =  "data//_volunteer_created_datasets//_duttashi/df_raw_nycacs_evict_joined.csv")
-
-
+write.csv(df_raw_nycacsevict, file =  "data/_volunteer_created_datasets/_duttashi/df_raw_nycacs_evict_joined.csv")
+write.csv(df_raw_nycacs, file = "data/_volunteer_created_datasets/_duttashi/df_raw_nycacs_parcln.csv")
+colnames(df_raw_nycacs)
